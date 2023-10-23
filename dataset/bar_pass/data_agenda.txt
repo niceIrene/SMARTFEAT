@@ -1,0 +1,13 @@
+decile1b: Binary variable indicating if a graduate is in the first decile,
+decile3: Variable related to the third decile of graduates,
+decile1: Variable related to the first decile of graduates,
+sex: Gender of the graduate (categorical: Male/Female),
+lsat: Law School Admission Test (LSAT) score,
+ugpa: Undergraduate grade point average (GPA),
+grad: Year of graduation,
+fulltime: Indicates if the graduate pursued full-time or part-time studies,
+fam_inc: Family income of the graduate,
+gender: Duplicate attribute representing gender,
+race1: Race or ethnicity of the graduate,
+tier: Tier or ranking of the law school attended,
+bar1: Binary variable indicating if the graduate passed the bar exam on the first attempt

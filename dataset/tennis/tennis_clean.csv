@@ -1,0 +1,944 @@
+,Player1,Player2,Round,Result,FSP.1,FSW.1,SSP.1,SSW.1,FSP.2,FSW.2,SSP.2,SSW.2
+0,Lukas Lacko,Novak Djokovic,1,0,61,35,39,18,68,45,32,17
+1,Leonardo Mayer,Albert Montanes,1,1,61,31,39,13,60,23,40,9
+2,Marcos Baghdatis,Denis Istomin,1,0,52,53,48,20,77,57,23,15
+3,Dmitry Tursunov,Michael Russell,1,1,53,39,47,24,50,24,50,19
+4,Juan Monaco,Ernests Gulbis,1,0,76,63,24,12,53,59,47,32
+5,Santiago Giraldo,Sam Querrey,1,0,65,51,35,22,63,60,37,22
+6,Dudi Sela,Jarkko Nieminen,1,0,68,73,32,24,60,66,40,34
+7,Fabio Fognini,Alex Bogomolov Jr.,1,1,47,18,53,15,54,26,46,13
+8,David Guez,Richard Gasquet,1,0,64,26,36,12,67,42,33,14
+9,Nikolay Davydenko,Lukasz Kubot,1,1,77,76,23,11,60,68,40,25
+10,Pablo Carreno Busta,Julien Benneteau,1,0,53,46,47,35,66,62,34,24
+11,Tommy Robredo,Lukas Rosol,1,1,57,62,43,43,51,72,49,41
+12,Samuel Groth,Vasek Pospisil,1,0,65,40,35,17,67,45,33,13
+13,Nicolas Mahut,Matthew Ebden,1,0,64,63,36,23,67,58,33,23
+14,Alejandro Falla,Mikhail Kukushkin,1,1,60,50,40,23,55,55,45,23
+15,Stanislas Wawrinka,Andrey Golubev,1,1,63,20,37,6,64,18,36,10
+16,Alejandro Gonzalez,David Ferrer,1,0,68,34,32,7,53,28,47,21
+17,Steve Johnson,Adrian Mannarino,1,0,53,50,47,28,58,52,42,37
+18,Ricardas Berankis,Alexandr Dolgopolov,1,0,50,39,50,26,58,42,42,23
+19,Jeremy Chardy,Jesse Huta Galung,1,1,66,46,34,16,57,41,43,13
+20,Jordan Thompson,Jerzy Janowicz,1,0,60,58,40,21,64,74,36,27
+21,Albert Ramos,Pablo Andujar,1,0,61,32,39,10,73,40,27,15
+22,Florian Mayer,Denis Kudla,1,1,58,36,42,22,59,35,41,18
+23,Mikhail Youzhny,Jan-Lennard Struff,1,1,69,39,31,17,49,24,51,12
+24,Guillermo Garcia-Lopez,Tommy Haas,1,1,58,27,42,11,52,22,48,11
+25,Carlos Berlocq,Edouard Roger-Vasselin,1,0,57,49,43,32,65,67,35,32
+26,Dominic Thiem,Joao Sousa,1,1,55,60,45,31,65,57,35,30
+27,Kevin Anderson,Jiri Vesely,1,1,63,76,37,28,57,69,43,43
+28,Ivo Karlovic,Ivan Dodig,1,0,66,55,34,18,83,68,17,12
+29,Jan Hajek,Damir Dzumhur,1,0,73,31,27,6,53,31,47,19
+30,Di Wu,Kenny De Schepper,1,0,60,46,40,29,62,63,38,20
+31,Tomas Berdych,Aleksandr Nedovyesov,1,1,66,39,34,19,61,37,39,17
+32,James Duckworth,Roger Federer,1,0,52,36,48,19,58,40,42,19
+33,Radek Stepanek,Blaz Kavcic,1,0,51,37,49,29,63,43,37,22
+34,Teymuraz Gabashvili,Sergiy Stakhovsky,1,1,58,49,42,24,55,50,45,21
+35,Fernando Verdasco,Ze Zhang,1,1,61,59,39,24,58,44,42,25
+36,Daniel Brands,Gilles Simon,1,0,63,109,37,36,56,114,44,57
+37,Marin Cilic,Marcel Granollers,1,1,58,57,42,30,61,64,39,27
+38,Thomaz Bellucci,Julian Reister,1,1,53,39,47,24,60,41,40,16
+39,Jo-Wilfried Tsonga,Filippo Volandri,1,1,62,37,38,23,57,35,43,20
+40,Martin Klizan,John Isner,1,1,54,25,46,21,78,36,22,6
+41,Blaz Rola,Federico Delbonis,1,1,68,57,32,13,63,38,37,16
+42,Michal Przysiezny,Horacio Zeballos,1,1,69,48,31,17,60,43,40,18
+43,Stephane Robert,Aljaz Bedene,1,1,46,25,54,21,54,40,46,9
+44,Somdev Devvarman,Feliciano Lopez,1,0,52,34,48,28,65,50,35,18
+45,Michael Berrer,Michael Llodra,1,1,63,39,37,19,72,47,28,12
+46,Vincent Millot,Wayne Odesnik,1,1,57,63,43,34,67,67,33,22
+47,Andy Murray,Go Soeda,1,1,69,33,31,11,61,28,39,6
+48,Rhyne Williams,Juan Martin Del Potro,1,0,57,52,43,25,64,62,36,23
+49,Roberto Bautista Agut,Tim Smyczek,1,1,82,37,18,7,61,28,39,10
+50,Nick Kyrgios,Benjamin Becker,1,1,54,60,46,25,53,45,47,31
+51,Benoit Paire,Frank Dancevic,1,1,57,54,43,22,59,47,41,20
+52,Bradley Klahn,Grigor Dimitrov,1,0,58,54,42,28,57,55,43,30
+53,Jimmy Wang,Yen-Hsun Lu,1,0,63,32,37,12,62,33,38,11
+54,Peter Gojowczyk,Victor Hanescu,1,0,55,44,45,22,66,60,34,23
+55,Milos Raonic,Daniel Gimeno-Traver,1,1,64,56,36,17,56,43,44,25
+56,Marinko Matosevic,Kei Nishikori,1,0,61,69,39,29,66,68,34,25
+57,Dusan Lajovic,Lucas Pouille,1,1,61,53,39,30,61,55,39,22
+58,Robin Haase,Donald Young,1,0,67,56,33,18,73,58,27,16
+59,Andreas Seppi,Lleyton Hewitt,1,1,59,72,41,40,51,76,49,38
+60,Ryan Harrison,Gael Monfils,1,0,62,42,38,17,64,43,36,18
+61,Tobias Kamke,Jack Sock,1,0,49,51,51,36,50,54,50,43
+62,Thanasi Kokkinakis,Igor Sijsling,1,1,54,55,46,36,59,56,41,23
+63,Rafael Nadal,Bernard Tomic,1,1,62,14,38,6,71,15,29,3
+64,Leonardo Mayer,Novak Djokovic,2,0,52,28,48,17,66,36,34,17
+65,Dmitry Tursunov,Denis Istomin,2,0,53,45,47,26,54,47,46,36
+66,Sam Querrey,Ernests Gulbis,2,1,72,45,28,11,46,23,54,21
+67,Fabio Fognini,Jarkko Nieminen,2,1,58,62,42,30,65,57,35,23
+68,Nikolay Davydenko,Richard Gasquet,2,0,77,48,23,11,58,41,42,21
+69,Tommy Robredo,Julien Benneteau,2,1,58,61,42,38,62,68,38,27
+70,Matthew Ebden,Vasek Pospisil,2,0,68,64,32,19,60,59,40,31
+71,Stanislas Wawrinka,Alejandro Falla,2,1,56,57,44,31,60,56,40,25
+72,Adrian Mannarino,David Ferrer,2,0,55,44,45,25,68,56,32,18
+73,Jeremy Chardy,Alexandr Dolgopolov,2,1,60,74,40,30,71,81,29,22
+74,Pablo Andujar,Jerzy Janowicz,2,0,79,71,21,20,67,76,33,25
+75,Mikhail Youzhny,Florian Mayer,2,0,55,55,45,36,60,59,40,33
+76,Edouard Roger-Vasselin,Guillermo Garcia-Lopez,2,1,57,49,43,28,51,46,49,26
+77,Kevin Anderson,Dominic Thiem,2,1,65,43,35,18,59,34,41,16
+78,Damir Dzumhur,Ivan Dodig,2,0,51,36,49,26,55,39,45,20
+79,Tomas Berdych,Kenny De Schepper,2,1,64,37,36,15,63,33,37,10
+80,Blaz Kavcic,Roger Federer,2,0,62,32,38,18,76,45,24,9
+81,Fernando Verdasco,Teymuraz Gabashvili,2,0,60,67,40,34,68,62,32,26
+82,Marin Cilic,Gilles Simon,2,0,50,50,50,32,49,65,51,41
+83,Jo-Wilfried Tsonga,Thomaz Bellucci,2,1,64,51,36,18,45,31,55,34
+84,Blaz Rola,Martin Klizan,2,0,63,66,37,24,58,49,42,34
+85,Stephane Robert,Michal Przysiezny,2,1,58,56,42,30,58,50,42,24
+86,Michael Berrer,Feliciano Lopez,2,0,68,47,32,17,62,45,38,23
+87,Andy Murray,Vincent Millot,2,1,59,35,41,17,55,25,45,20
+88,Roberto Bautista Agut,Juan Martin Del Potro,2,1,69,88,31,23,72,76,28,21
+89,Benoit Paire,Nick Kyrgios,2,1,50,68,50,47,66,86,34,27
+90,Yen-Hsun Lu,Grigor Dimitrov,2,0,70,47,30,19,59,49,41,18
+91,Milos Raonic,Victor Hanescu,2,1,64,57,36,23,67,55,33,22
+92,Dusan Lajovic,Kei Nishikori,2,0,70,37,30,8,64,43,36,15
+93,Andreas Seppi,Donald Young,2,0,57,57,43,33,61,71,39,29
+94,Jack Sock,Gael Monfils,2,0,58,48,42,23,62,47,38,23
+95,Rafael Nadal,Thanasi Kokkinakis,2,1,74,45,26,11,67,33,33,10
+96,Denis Istomin,Novak Djokovic,3,0,65,41,35,10,63,38,37,20
+97,Fabio Fognini,Sam Querrey,3,1,60,41,40,26,63,43,37,19
+98,Tommy Robredo,Richard Gasquet,3,1,65,70,35,21,62,61,38,28
+99,Jeremy Chardy,David Ferrer,3,0,58,44,42,17,72,44,28,17
+100,Florian Mayer,Jerzy Janowicz,3,1,68,42,32,15,53,34,47,18
+101,Kevin Anderson,Edouard Roger-Vasselin,3,1,67,77,33,26,74,94,26,20
+102,Tomas Berdych,Damir Dzumhur,3,1,57,37,43,19,44,25,56,17
+103,Teymuraz Gabashvili,Roger Federer,3,0,69,38,31,10,62,39,38,16
+104,Jo-Wilfried Tsonga,Gilles Simon,3,1,66,49,34,20,53,34,47,22
+105,Stephane Robert,Martin Klizan,3,1,72,54,28,11,53,32,47,21
+106,Andy Murray,Feliciano Lopez,3,1,64,50,36,16,57,39,43,20
+107,Benoit Paire,Roberto Bautista Agut,3,0,58,30,42,10,83,46,17,7
+108,Milos Raonic,Grigor Dimitrov,3,0,59,55,41,30,60,55,40,33
+109,Donald Young,Kei Nishikori,3,0,64,23,36,7,54,29,46,21
+110,Rafael Nadal,Gael Monfils,3,1,67,38,33,20,69,39,31,10
+111,Fabio Fognini,Novak Djokovic,4,0,59,32,41,13,72,38,28,12
+112,Stanislas Wawrinka,Tommy Robredo,4,1,56,54,44,24,71,53,29,14
+113,Florian Mayer,David Ferrer,4,0,61,52,39,27,63,55,37,24
+114,Tomas Berdych,Kevin Anderson,4,1,52,33,48,21,72,40,28,9
+115,Jo-Wilfried Tsonga,Roger Federer,4,0,52,32,48,23,57,42,43,25
+116,Andy Murray,Stephane Robert,4,1,62,59,38,25,51,39,49,22
+117,Grigor Dimitrov,Roberto Bautista Agut,4,1,60,57,40,21,64,44,36,22
+118,Rafael Nadal,Kei Nishikori,4,1,71,67,29,14,66,51,34,16
+119,Stanislas Wawrinka,Novak Djokovic,5,1,58,71,42,36,73,75,27,23
+120,Tomas Berdych,David Ferrer,5,1,52,52,48,27,61,46,39,23
+121,Andy Murray,Roger Federer,5,0,61,60,39,28,64,61,36,28
+122,Rafael Nadal,Grigor Dimitrov,5,1,73,66,27,22,58,64,42,32
+123,Tomas Berdych,Stanislas Wawrinka,6,0,62,71,38,30,61,72,39,32
+124,Rafael Nadal,Roger Federer,6,1,65,41,35,22,66,45,34,18
+125,Rafael Nadal,Stanislas Wawrinka,7,0,78,50,22,10,55,46,45,22
+126,Serena Williams,Ashleigh Barty,1,1,59,20,41,8,51,14,49,11
+127,Vesna Dolonc,Lara Arruabarrena,1,1,65,33,35,10,62,33,38,10
+128,Pauline Parmentier,Karolina Pliskova,1,0,63,16,37,4,60,26,40,7
+129,Heather Watson,Daniela Hantuchova,1,0,61,41,39,19,68,43,32,10
+130,Samantha Stosur,Klara Zakopalova,1,1,65,28,35,11,50,18,50,7
+131,Tsvetana Pironkova,Silvia Soler-Espinosa,1,1,62,28,38,12,50,18,50,14
+132,Annika Beck,Petra Martic,1,1,67,18,33,8,50,8,50,4
+133,Kiki Bertens,Ana Ivanovic,1,0,61,15,39,11,60,24,40,9
+134,Roberta Vinci,Jie Zheng,1,0,66,23,34,7,68,26,32,10
+135,Patricia Mayr-Achleitner,Madison Keys,1,0,71,48,29,14,52,45,48,30
+136,Casey Dellacqua,Vera Zvonareva,1,1,66,22,34,13,65,22,35,9
+137,Laura Robson,Kirsten Flipkens,1,0,57,14,43,5,57,18,43,11
+138,Eugenie Bouchard,Hao Chen Tang,1,1,64,30,36,16,57,21,43,12
+139,Alison Van Uytvanck,Virginie Razzano,1,0,54,32,46,15,58,39,42,18
+140,Sachia Vickery,Lauren Davis,1,0,51,14,49,12,61,23,39,7
+141,Julia Goerges,Sara Errani,1,1,50,20,50,15,77,21,23,5
+142,Na Li,Ana Konjuh,1,1,76,24,24,7,50,13,50,9
+143,Belinda Bencic,Kimiko Date-Krumm,1,1,53,25,47,15,71,31,29,10
+144,Donna Vekic,Lucie Hradecka,1,0,47,17,53,9,54,23,46,12
+145,Julia Glushko,Lucie Safarova,1,0,61,35,39,20,59,37,41,21
+146,Ekaterina Makarova,Venus Williams,1,1,63,43,37,17,55,36,45,18
+147,Anabel Medina Garrigues,Irina Falconi,1,0,86,18,14,3,53,18,47,13
+148,Shahar Peer,Monica Niculescu,1,0,80,21,20,2,82,26,18,3
+149,Mirjana Lucic-Baroni,Sabine Lisicki,1,0,43,17,57,8,52,32,48,15
+150,Angelique Kerber,Jarmila Gajdosova,1,1,65,36,35,13,53,29,47,12
+151,Caroline Garcia,Alla Kudryavtseva,1,0,58,22,42,15,58,37,42,14
+152,Dinah Pfizenmaier,Yanina Wickmayer,1,0,48,24,52,23,58,38,42,15
+153,Alison Riske,Elena Vesnina,1,1,64,24,36,8,62,17,38,10
+154,Flavia Pennetta,Alexandra Cadantu,1,1,40,16,60,14,58,14,42,9
+155,Monica Puig,Anna Tatishvili,1,1,61,30,39,13,68,20,32,5
+156,Shuai Zhang,Mona Barthel,1,0,75,31,25,8,69,41,31,10
+157,Luksika Kumkhum,Petra Kvitova,1,1,48,26,52,20,60,36,40,15
+158,Jelena Jankovic,Misaki Doi,1,1,60,23,40,11,52,12,48,5
+159,Nadiya Kichenok,Ayumi Morita,1,0,63,27,37,11,62,30,38,16
+160,Kurumi Nara,Shuai Peng,1,1,74,39,26,10,63,40,37,16
+161,Andrea Petkovic,Magdalena Rybarikova,1,0,68,23,32,6,67,27,33,8
+162,Sorana Cirstea,Marina Erakovic,1,0,57,25,43,13,59,35,41,17
+163,Zarina Diyas,Katerina Siniakova,1,1,74,33,26,6,57,22,43,10
+164,Lesia Tsurenko,Varvara Lepchenko,1,0,63,35,37,20,64,42,36,15
+165,Katarzyna Piter,Simona Halep,1,0,77,12,23,1,61,21,39,9
+166,Carla Suarez Navarro,Vania King,1,1,79,31,21,4,69,20,31,5
+167,Galina Voskoboeva,Irina-Camelia Begu,1,1,64,41,36,18,62,44,38,15
+168,Kristina Mladenovic,Stefanie Voegele,1,0,48,29,52,19,66,32,34,13
+169,Francesca Schiavone,Dominika Cibulkova,1,0,60,21,40,11,61,33,39,14
+170,Alize Cornet,Polona Hercog,1,0,75,3,25,1,0,0,100,1
+171,Camila Giorgi,Storm Sanders,1,1,51,38,49,23,63,35,37,12
+172,Paula Ormaechea,Karin Knapp,1,0,57,26,43,7,61,26,39,8
+173,Bethanie Mattek-Sands,Maria Sharapova,1,0,57,27,43,10,53,31,47,13
+174,Agnieszka Radwanska,Yulia Putintseva,1,1,59,36,41,15,52,29,48,16
+175,Olga Govortsova,Ying-Ying Duan,1,1,68,35,32,8,60,24,40,16
+176,Carina Witthoeft,Mandy Minella,1,0,62,16,38,10,56,17,44,16
+177,Teliana Pereira,Anastasia Pavlyuchenkova,1,0,68,43,32,14,62,32,38,15
+178,Kaia Kanepi,Garbine Muguruza,1,0,64,27,36,12,51,28,49,20
+179,Timea Babos,Anna Schmiedlova,1,0,60,46,40,17,66,54,34,23
+180,Christina McHale,Yung-Jan Chan,1,1,71,31,29,11,68,28,32,10
+181,Lourdes Dominguez Lino,Caroline Wozniacki,1,0,58,10,42,8,61,17,39,11
+182,Sloane Stephens,Yaroslava Shvedova,1,1,75,31,25,7,58,22,42,10
+183,Tadeja Majeric,Ajla Tomljanovic,1,0,72,54,28,10,49,36,51,25
+184,Olivia Rogowska,Mariana Duque-Marino,1,1,63,25,37,10,67,18,33,5
+185,Elina Svitolina,Svetlana Kuznetsova,1,1,61,26,39,8,48,20,52,11
+186,Bojana Jovanovski,Jana Cepelova,1,1,76,43,24,11,69,28,31,7
+187,Chanelle Scheepers,Yvonne Meusburger,1,0,53,27,47,12,68,32,32,12
+188,Su-Wei Hsieh,Barbora Zahlavova Strycova,1,0,58,33,42,15,68,39,32,13
+189,Johanna Larsson,Victoria Azarenka,1,0,72,24,28,5,75,41,25,4
+190,Serena Williams,Vesna Dolonc,2,1,66,28,34,8,54,17,46,6
+191,Karolina Pliskova,Daniela Hantuchova,2,0,55,50,45,28,59,53,41,28
+192,Samantha Stosur,Tsvetana Pironkova,2,1,59,20,41,10,57,15,43,4
+193,Annika Beck,Ana Ivanovic,2,0,75,13,25,3,54,16,46,13
+194,Jie Zheng,Madison Keys,2,1,76,40,24,14,63,39,37,18
+195,Casey Dellacqua,Kirsten Flipkens,2,1,73,22,27,6,48,15,52,10
+196,Eugenie Bouchard,Virginie Razzano,2,1,50,26,50,17,75,32,25,6
+197,Lauren Davis,Julia Goerges,2,1,69,51,31,15,71,45,29,11
+198,Na Li,Belinda Bencic,2,1,60,27,40,12,54,21,46,8
+199,Lucie Hradecka,Lucie Safarova,2,0,44,33,56,26,62,47,38,20
+200,Ekaterina Makarova,Irina Falconi,2,1,56,26,44,14,74,22,26,10
+201,Monica Niculescu,Sabine Lisicki,2,1,66,35,34,9,53,23,47,14
+202,Angelique Kerber,Alla Kudryavtseva,2,1,59,24,41,11,63,25,37,8
+203,Yanina Wickmayer,Alison Riske,2,0,63,13,37,6,78,27,22,6
+204,Flavia Pennetta,Monica Puig,2,1,45,22,55,18,45,21,55,16
+205,Mona Barthel,Luksika Kumkhum,2,1,63,44,37,18,58,38,42,13
+206,Jelena Jankovic,Ayumi Morita,2,1,59,19,41,7,57,8,43,5
+207,Kurumi Nara,Magdalena Rybarikova,2,1,66,26,34,15,52,16,48,8
+208,Marina Erakovic,Zarina Diyas,2,0,50,15,50,8,70,27,30,10
+209,Varvara Lepchenko,Simona Halep,2,0,63,34,37,10,58,29,42,16
+210,Carla Suarez Navarro,Galina Voskoboeva,2,1,73,57,27,17,55,40,45,23
+211,Stefanie Voegele,Dominika Cibulkova,2,0,42,11,58,1,68,21,32,8
+212,Alize Cornet,Camila Giorgi,2,1,59,39,41,17,56,31,44,20
+213,Karin Knapp,Maria Sharapova,2,1,53,40,47,23,60,44,40,23
+214,Agnieszka Radwanska,Olga Govortsova,2,1,66,28,34,8,70,20,30,6
+215,Mandy Minella,Anastasia Pavlyuchenkova,2,0,55,21,45,11,67,24,33,8
+216,Garbine Muguruza,Anna Schmiedlova,2,1,56,23,44,11,59,15,41,7
+217,Christina McHale,Caroline Wozniacki,2,0,53,22,47,12,74,30,26,8
+218,Sloane Stephens,Ajla Tomljanovic,2,1,71,39,29,14,54,35,46,22
+219,Olivia Rogowska,Elina Svitolina,2,0,61,26,39,14,53,26,47,15
+220,Bojana Jovanovski,Yvonne Meusburger,2,0,69,30,31,14,67,38,33,5
+221,Barbora Zahlavova Strycova,Victoria Azarenka,2,0,55,13,45,9,85,34,15,6
+222,Serena Williams,Daniela Hantuchova,3,1,48,20,52,15,54,15,46,12
+223,Samantha Stosur,Ana Ivanovic,3,0,68,42,32,22,58,47,42,23
+224,Jie Zheng,Casey Dellacqua,3,0,64,18,36,11,58,20,42,14
+225,Eugenie Bouchard,Lauren Davis,3,1,61,23,39,10,77,24,23,3
+226,Na Li,Lucie Safarova,3,1,60,43,40,18,59,33,41,17
+227,Ekaterina Makarova,Monica Niculescu,3,1,56,17,44,13,70,23,30,8
+228,Angelique Kerber,Alison Riske,3,1,63,21,37,6,62,16,38,8
+229,Flavia Pennetta,Mona Barthel,3,1,44,17,56,15,60,22,40,13
+230,Jelena Jankovic,Kurumi Nara,3,1,62,23,38,13,86,25,14,5
+231,Zarina Diyas,Simona Halep,3,0,61,16,39,7,52,18,48,13
+232,Carla Suarez Navarro,Dominika Cibulkova,3,0,65,12,35,4,69,21,31,8
+233,Alize Cornet,Maria Sharapova,3,0,65,24,35,9,50,23,50,16
+234,Agnieszka Radwanska,Anastasia Pavlyuchenkova,3,1,65,36,35,16,59,29,41,17
+235,Garbine Muguruza,Caroline Wozniacki,3,1,64,37,36,16,67,39,33,12
+236,Sloane Stephens,Elina Svitolina,3,1,69,31,31,10,57,23,43,15
+237,Yvonne Meusburger,Victoria Azarenka,3,0,70,8,30,4,74,20,26,5
+238,Serena Williams,Ana Ivanovic,4,0,66,43,34,13,53,31,47,21
+239,Casey Dellacqua,Eugenie Bouchard,4,0,61,33,39,14,65,37,35,16
+240,Na Li,Ekaterina Makarova,4,1,80,26,20,4,64,14,36,3
+241,Angelique Kerber,Flavia Pennetta,4,0,64,35,36,10,60,33,40,12
+242,Jelena Jankovic,Simona Halep,4,0,67,32,33,11,64,26,36,14
+243,Dominika Cibulkova,Maria Sharapova,4,1,69,27,31,13,66,31,34,12
+244,Agnieszka Radwanska,Garbine Muguruza,4,1,73,34,27,11,56,18,44,10
+245,Sloane Stephens,Victoria Azarenka,4,0,72,24,28,9,69,32,31,10
+246,Ana Ivanovic,Eugenie Bouchard,5,0,56,34,44,23,58,42,42,20
+247,Na Li,Flavia Pennetta,5,1,64,23,36,10,39,12,61,13
+248,Simona Halep,Dominika Cibulkova,5,0,67,13,33,6,77,25,23,5
+249,Agnieszka Radwanska,Victoria Azarenka,5,1,59,33,41,16,60,26,40,19
+250,Eugenie Bouchard,Na Li,6,0,45,13,55,5,61,27,39,11
+251,Dominika Cibulkova,Agnieszka Radwanska,6,1,64,22,36,10,68,17,32,2
+252,Na Li,Dominika Cibulkova,7,1,60,21,40,15,67,29,33,5
+253,Pablo Carreno-Busta,Roger Federer,1,0,62,27,38,11,68,33,32,14
+254,Somdev Devvarman,Daniel Munoz-De La Nava,1,1,62,54,38,22,52,35,48,24
+255,Tobias Kamke,Paolo Lorenzi,1,1,62,53,38,15,46,42,54,31
+256,Julien Benneteau,Ricardas Berankis,1,1,72,87,28,19,53,58,47,38
+257,Lukas Lacko,Sam Querrey,1,0,52,31,48,22,58,39,42,19
+258,Jan Hajek,Denis Kudla,1,1,70,58,30,18,68,48,32,17
+259,Adrian Mannarino,Pablo Cuevas,1,0,63,71,37,38,59,67,41,27
+260,Gilles Simon,Lleyton Hewitt,1,1,59,42,41,25,49,40,51,29
+261,Philipp Petzschner,Marin Cilic,1,0,56,27,44,13,50,26,50,20
+262,Radek Stepanek,Nick Kyrgios,1,0,63,62,37,29,56,64,44,35
+263,Viktor Troicki,James Blake,1,1,48,29,52,20,47,22,53,15
+264,Juan Monaco,Daniel Gimeno-Traver,1,0,78,85,22,22,52,67,48,47
+265,Benjamin Becker,Jeremy Chardy,1,0,66,48,34,13,66,44,34,17
+266,Roberto Bautista Agut,Gilles Muller,1,1,83,51,17,6,55,36,45,18
+267,Jarkko Nieminen,Paul-Henri Mathieu,1,1,69,84,31,29,54,58,46,36
+268,Jo-Wilfried Tsonga,Aljaz Bedene,1,1,50,32,50,23,62,26,38,12
+269,Marinko Matosevic,David Ferrer,1,0,59,29,41,10,55,33,45,18
+270,Steve Johnson,Albert Montanes,1,0,55,53,45,32,65,59,35,21
+271,Joao Sousa,Go Soeda,1,1,70,40,30,14,58,24,42,10
+272,Marcel Granollers,Feliciano Lopez,1,0,70,55,30,18,58,52,42,33
+273,Illya Marchenko,Kevin Anderson,1,0,60,39,40,25,64,50,36,15
+274,Jan-Lennard Struff,Evgeny Donskoy,1,0,48,47,52,32,59,59,41,25
+275,Steve Darcis,Michael Llodra,1,0,71,49,29,23,58,56,42,16
+276,Milos Raonic,Xavier Malisse,1,1,73,55,27,14,64,42,36,18
+277,Andreas Haider-Maurer,Nicolas Almagro,1,0,65,50,35,20,53,50,47,28
+278,Martin Alund,Edouard Roger-Vasselin,1,0,57,31,43,17,63,45,37,22
+279,Blaz Kavcic,James Duckworth,1,1,63,33,37,17,46,19,54,11
+280,Andreas Seppi,Leonardo Mayer,1,1,67,73,33,32,64,68,36,28
+281,Jurgen Zopp,Tommy Robredo,1,0,68,35,32,9,65,37,35,12
+282,Igor Sijsling,Jurgen Melzer,1,1,64,41,36,18,72,37,28,6
+283,Ernests Gulbis,Rogerio Dutra Silva,1,1,53,36,47,23,65,31,35,13
+284,Tomas Berdych,Gael Monfils,1,0,66,91,34,33,72,104,28,27
+285,Sergiy Stakhovsky,Richard Gasquet,1,0,55,22,45,17,67,36,33,16
+286,Michal Przysiezny,Rhyne Williams,1,1,67,75,33,27,67,66,33,21
+287,Florent Serra,Nikolay Davydenko,1,0,64,35,36,13,67,50,33,16
+288,Florian Mayer,Denis Istomin,1,0,59,40,41,15,69,44,31,13
+289,Albert Ramos,Jerzy Janowicz,1,0,61,41,39,25,63,49,37,26
+290,Kenny De Schepper,Robin Haase,1,0,64,61,36,21,65,59,35,25
+291,Vasek Pospisil,Horacio Zeballos,1,0,56,67,44,34,68,71,32,18
+292,Stanislas Wawrinka,Thiemo De Bakker,1,1,69,74,31,24,69,70,31,25
+293,Jesse Levine,Kei Nishikori,1,0,52,16,48,9,51,27,49,19
+294,Grega Zemlja,Santiago Giraldo,1,1,52,32,48,21,64,30,36,12
+295,Lukasz Kubot,Maxime Teixeira,1,1,64,30,36,12,64,37,36,12
+296,Benoit Paire,Marcos Baghdatis,1,1,46,40,54,29,53,34,47,25
+297,Andreas Beck,Fabio Fognini,1,0,55,37,45,25,64,50,36,27
+298,Pere Riba,Lukas Rosol,1,0,60,38,40,14,62,41,38,23
+299,Martin Klizan,Michael Russell,1,1,49,29,51,22,69,35,31,9
+300,Rafael Nadal,Daniel Brands,1,1,84,74,16,12,74,66,26,22
+301,Fernando Verdasco,Marc Gicquel,1,1,64,37,36,11,53,23,47,13
+302,Federico Delbonis,Julian Reister,1,1,55,52,45,27,72,47,28,15
+303,Mikhail Youzhny,Pablo Andujar,1,1,65,70,35,20,56,49,44,27
+304,Carlos Berlocq,John Isner,1,0,73,45,27,10,63,45,37,16
+305,Andrey Kuznetsov,Ryan Harrison,1,0,71,48,29,11,56,46,44,26
+306,Jack Sock,Guillermo Garcia-Lopez,1,1,56,32,44,23,63,30,37,11
+307,Tommy Haas,Guillaume Rufin,1,1,65,48,35,13,61,32,39,21
+308,Jiri Vesely,Philipp Kohlschreiber,1,0,61,59,39,25,62,61,38,21
+309,Simone Bolelli,Yen-Hsun Lu,1,0,63,33,37,12,77,32,23,9
+310,Bernard Tomic,Victor Hanescu,1,0,63,38,37,17,71,51,29,19
+311,Alexandr Dolgopolov,Dmitry Tursunov,1,0,55,51,45,22,51,47,49,28
+312,Alejandro Falla,Grigor Dimitrov,1,0,54,10,46,7,59,20,41,10
+313,Alex Kuznetsov,Lucas Pouille,1,0,63,33,37,13,48,36,52,33
+314,Ivan Dodig,Guido Pella,1,0,56,80,44,37,61,71,39,35
+315,Novak Djokovic,David Goffin,1,1,69,53,31,20,61,46,39,25
+316,Somdev Devvarman,Roger Federer,2,0,61,19,39,16,62,30,38,18
+317,Julien Benneteau,Tobias Kamke,2,1,72,83,28,23,65,75,35,37
+318,Jan Hajek,Sam Querrey,2,0,66,36,34,16,62,45,38,14
+319,Gilles Simon,Pablo Cuevas,2,1,57,41,43,26,56,37,44,19
+320,Nick Kyrgios,Marin Cilic,2,0,64,33,36,10,51,32,49,23
+321,Daniel Gimeno-Traver,Viktor Troicki,2,0,78,84,22,15,56,61,44,35
+322,Roberto Bautista Agut,Jeremy Chardy,2,0,79,42,21,8,64,50,36,17
+323,Jo-Wilfried Tsonga,Jarkko Nieminen,2,1,65,44,35,19,61,41,39,25
+324,Albert Montanes,David Ferrer,2,0,67,28,33,9,60,31,40,15
+325,Feliciano Lopez,Joao Sousa,2,1,64,56,36,23,66,58,34,24
+326,Evgeny Donskoy,Kevin Anderson,2,0,67,62,33,21,68,69,32,26
+327,Milos Raonic,Michael Llodra,2,1,63,62,37,25,61,59,39,32
+328,Edouard Roger-Vasselin,Nicolas Almagro,2,0,57,30,43,16,46,36,54,30
+329,Andreas Seppi,Blaz Kavcic,2,1,57,67,43,41,63,64,37,37
+330,Igor Sijsling,Tommy Robredo,2,0,52,51,48,30,62,67,38,28
+331,Gael Monfils,Ernests Gulbis,2,1,64,65,36,32,60,55,40,22
+332,Michal Przysiezny,Richard Gasquet,2,0,64,27,36,8,59,32,41,14
+333,Denis Istomin,Nikolay Davydenko,2,0,68,41,32,19,65,41,35,18
+334,Robin Haase,Jerzy Janowicz,2,0,68,51,32,21,60,48,40,28
+335,Stanislas Wawrinka,Horacio Zeballos,2,1,66,52,34,18,62,46,38,16
+336,Grega Zemlja,Kei Nishikori,2,0,48,39,52,24,63,45,37,19
+337,Benoit Paire,Lukasz Kubot,2,1,57,34,43,20,75,46,25,8
+338,Lukas Rosol,Fabio Fognini,2,0,57,51,43,21,74,60,26,17
+339,Rafael Nadal,Martin Klizan,2,1,74,55,26,10,56,30,44,25
+340,Fernando Verdasco,Janko Tipsarevic,2,0,58,77,42,40,64,82,36,38
+341,Mikhail Youzhny,Federico Delbonis,2,1,69,70,31,24,57,55,43,30
+342,Ryan Harrison,John Isner,2,0,64,88,36,32,65,81,35,37
+343,Tommy Haas,Jack Sock,2,1,74,62,26,15,54,39,46,22
+344,Dmitry Tursunov,Victor Hanescu,2,0,59,31,41,9,67,33,33,9
+345,Lucas Pouille,Grigor Dimitrov,2,0,60,31,40,14,49,37,51,29
+346,Novak Djokovic,Guido Pella,2,1,72,38,28,10,57,26,43,12
+347,Julien Benneteau,Roger Federer,3,0,82,41,18,8,65,42,35,22
+348,Gilles Simon,Sam Querrey,3,1,60,52,40,32,58,60,42,21
+349,Viktor Troicki,Marin Cilic,3,1,65,61,35,20,59,43,41,27
+350,Jo-Wilfried Tsonga,Jeremy Chardy,3,1,67,40,33,17,65,35,35,10
+351,Feliciano Lopez,David Ferrer,3,0,63,37,37,14,66,41,34,17
+352,Milos Raonic,Kevin Anderson,3,0,57,49,43,29,69,54,31,19
+353,Andreas Seppi,Nicolas Almagro,3,0,51,34,49,18,69,50,31,12
+354,Gael Monfils,Tommy Robredo,3,0,68,73,32,27,70,74,30,30
+355,Nikolay Davydenko,Richard Gasquet,3,0,76,46,24,9,68,40,32,19
+356,Stanislas Wawrinka,Jerzy Janowicz,3,1,58,54,42,31,61,58,39,23
+357,Benoit Paire,Kei Nishikori,3,0,43,40,57,36,63,53,37,23
+358,Rafael Nadal,Fabio Fognini,3,1,78,52,22,14,67,47,33,26
+359,Mikhail Youzhny,Janko Tipsarevic,3,1,64,40,36,21,49,28,51,25
+360,Tommy Haas,John Isner,3,0,63,99,37,52,78,132,22,24
+361,Victor Hanescu,Philipp Kohlschreiber,3,0,73,31,27,8,59,43,41,20
+362,Novak Djokovic,Grigor Dimitrov,3,1,68,39,32,13,69,33,31,9
+363,Gilles Simon,Roger Federer,4,0,61,65,39,28,64,56,36,23
+364,Jo-Wilfried Tsonga,Viktor Troicki,4,1,77,45,23,15,62,34,38,15
+365,Kevin Anderson,David Ferrer,4,0,71,34,29,7,52,28,48,24
+366,Tommy Robredo,Nicolas Almagro,4,1,63,73,37,31,63,71,37,31
+367,Stanislas Wawrinka,Richard Gasquet,4,1,63,81,37,41,60,87,40,38
+368,Rafael Nadal,Kei Nishikori,4,1,69,39,31,16,65,27,35,15
+369,Tommy Haas,Mikhail Youzhny,4,1,61,31,39,14,63,16,37,12
+370,Novak Djokovic,Philipp Kohlschreiber,4,1,74,71,26,23,55,48,45,28
+371,Jo-Wilfried Tsonga,Roger Federer,5,1,75,46,25,10,67,39,33,14
+372,Tommy Robredo,David Ferrer,5,0,59,22,41,9,47,25,53,22
+373,Rafael Nadal,Stanislas Wawrinka,5,1,75,40,25,11,60,30,40,12
+374,Novak Djokovic,Tommy Haas,5,1,64,41,36,22,60,48,40,21
+375,David Ferrer,Jo-Wilfried Tsonga,6,1,60,35,40,23,58,37,42,17
+376,Novak Djokovic,Rafael Nadal,6,0,67,76,33,30,64,73,36,35
+377,Rafael Nadal,David Ferrer,7,1,70,43,30,11,62,31,38,8
+378,Su-Wei Hsieh,Maria Sharapova,1,0,62,18,38,5,68,25,32,8
+379,Eugenie Bouchard,Tsvetana Pironkova,1,1,57,23,43,17,66,28,34,6
+380,Jie Zheng,Vesna Dolonc,1,1,76,30,24,5,76,35,24,6
+381,Tamira Paszek,Melanie Oudin,1,0,59,16,41,8,63,27,37,9
+382,Karin Knapp,Sloane Stephens,1,0,57,18,43,13,65,22,35,10
+383,Vania King,Alexandra Cadantu,1,1,74,27,26,11,72,28,28,9
+384,Marina Erakovic,Elena Baltacha,1,1,66,23,34,8,69,11,31,6
+385,Dominika Cibulkova,Lesia Tsurenko,1,1,60,24,40,11,55,12,45,7
+386,Kimiko Date-Krumm,Samantha Stosur,1,0,79,15,21,3,59,19,41,12
+387,Kristina Mladenovic,Lauren Davis,1,1,58,27,42,13,72,22,28,5
+388,Karolina Pliskova,Garbine Muguruza,1,0,60,41,40,20,69,49,31,13
+389,Jelena Jankovic,Daniela Hantuchova,1,1,78,40,22,7,68,38,32,17
+390,Jamie Hampton,Lucie Safarova,1,1,60,50,40,24,67,53,33,19
+391,Anna Karolina Schmiedlova,Yanina Wickmayer,1,1,62,40,38,16,59,39,41,22
+392,Shuai Peng,Camila Giorgi,1,1,54,28,46,14,53,24,47,8
+393,Petra Kvitova,Aravane Rezai,1,1,69,35,31,13,56,27,44,12
+394,Elena Vesnina,Victoria Azarenka,1,0,74,21,26,6,70,31,30,6
+395,Sandra Zahlavova,Annika Beck,1,0,69,18,31,7,83,28,17,5
+396,Irina-Camelia Begu,Silvia Soler-Espinosa,1,0,74,26,26,6,56,23,44,15
+397,Alize Cornet,Maria Joao Koehler,1,1,70,28,30,11,60,19,40,8
+398,Flavia Pennetta,Kirsten Flipkens,1,0,41,21,59,17,45,31,55,23
+399,Melinda Czink,Francesca Schiavone,1,0,57,23,43,12,57,26,43,14
+400,Kristyna Pliskova,Mariana Duque-Marino,1,0,60,18,40,9,65,23,35,9
+401,Marion Bartoli,Olga Govortsova,1,1,62,54,38,25,62,42,38,16
+402,Nina Bratchikova,Maria Kirilenko,1,0,69,15,31,4,51,19,49,12
+403,Ashleigh Barty,Lucie Hradecka,1,1,53,32,47,23,57,31,43,18
+404,Stefanie Voegele,Heather Watson,1,1,64,41,36,16,67,44,33,17
+405,Klara Zakopalova,Kaia Kanepi,1,0,58,22,42,11,70,32,30,8
+406,Coco Vandeweghe,Yaroslava Shvedova,1,0,53,24,47,12,64,30,36,14
+407,Tatjana Maria,Paula Ormaechea,1,0,60,30,40,18,49,25,51,21
+408,Bethanie Mattek-Sands,Lourdes Dominguez Lino,1,1,54,24,46,14,47,12,53,14
+409,Na Li,A. Medina Garrigues,1,1,71,31,29,7,57,18,43,7
+410,Arantxa Rus,Sara Errani,1,0,52,11,48,2,85,18,15,3
+411,Ayumi Morita,Yulia Putintseva,1,0,65,17,35,9,58,22,42,16
+412,Maria-Teresa Torro-Flor,Julia Glushko,1,1,77,32,23,7,78,22,22,5
+413,Sabine Lisicki,Sofia Arvidsson,1,1,52,27,48,15,70,29,30,10
+414,Simona Halep,Carla Suarez Navarro,1,0,74,34,26,9,63,31,37,17
+415,Irena Pavlovic,Shelby Rogers,1,0,59,24,41,11,58,26,42,15
+416,Madison Keys,Misaki Doi,1,1,66,29,34,8,62,16,38,9
+417,Nadia Petrova,Monica Puig,1,0,58,37,42,16,52,40,48,21
+418,Petra Martic,Ana Ivanovic,1,0,62,30,38,17,54,37,46,24
+419,Chanelle Scheepers,Mathilde Johansson,1,0,54,16,46,13,68,29,32,9
+420,Virginie Razzano,Claire Feuerstein,1,1,75,46,25,9,55,29,45,19
+421,Julia Goerges,Zuzana Kucova,1,0,54,22,46,14,76,41,24,13
+422,Urszula Radwanska,Venus Williams,1,1,68,48,32,16,65,38,35,13
+423,Dinah Pfizenmaier,Mandy Minella,1,1,67,28,33,5,57,17,43,8
+424,Mallory Burdette,Donna Vekic,1,1,68,27,32,11,63,21,37,7
+425,Agnieszka Radwanska,Shahar Peer,1,1,67,17,33,9,56,15,44,7
+426,Mona Barthel,Angelique Kerber,1,0,57,30,43,16,54,31,46,20
+427,Jana Cepelova,Christina McHale,1,1,78,52,22,9,70,52,30,10
+428,Romina Oprandi,Elina Svitolina,1,0,67,35,33,7,61,30,39,19
+429,Varvara Lepchenko,Mirjana Lucic-Baroni,1,1,65,23,35,8,56,15,44,8
+430,Svetlana Kuznetsova,Ekaterina Makarova,1,1,54,15,46,15,70,25,30,11
+431,Pauline Parmentier,Magdalena Rybarikova,1,0,54,12,46,6,73,19,27,6
+432,Barbora Zahlavova Strycova,Bojana Jovanovski,1,0,71,23,29,6,80,31,20,5
+433,Caroline Wozniacki,Laura Robson,1,1,76,27,24,8,56,18,44,5
+434,Stephanie Foretz Gacon,Roberta Vinci,1,0,66,16,34,5,60,20,40,12
+435,Galina Voskoboeva,Grace Min,1,1,55,30,45,18,69,34,31,17
+436,Petra Cetkovska,Olga Puchkova,1,1,69,25,31,8,62,11,38,3
+437,Anastasia Pavlyuchenkova,Andrea Hlavackova,1,1,54,31,46,22,72,46,28,11
+438,Kiki Bertens,Sorana Cirstea,1,0,63,42,37,12,65,40,35,21
+439,Monica Niculescu,Johanna Larsson,1,0,82,15,18,4,64,22,36,8
+440,Yuliya Beygelzimer,Caroline Garcia,1,0,59,24,41,13,60,29,40,13
+441,Serena Williams,Anna Tatishvili,1,1,73,21,27,7,58,11,42,6
+442,Eugenie Bouchard,Maria Sharapova,2,0,57,17,43,10,52,19,48,11
+443,Melanie Oudin,Jie Zheng,2,0,65,12,35,7,73,26,27,7
+444,Vania King,Sloane Stephens,2,0,82,17,18,6,75,26,25,5
+445,Dominika Cibulkova,Marina Erakovic,2,0,56,31,44,16,48,25,52,21
+446,Kristina Mladenovic,Samantha Stosur,2,0,55,27,45,16,75,40,25,6
+447,Jelena Jankovic,Garbine Muguruza,2,1,60,16,40,11,54,13,46,8
+448,Anna Karolina Schmiedlova,Jamie Hampton,2,0,70,28,30,7,57,22,43,15
+449,Petra Kvitova,Shuai Peng,2,1,53,20,47,13,73,22,27,5
+450,Annika Beck,Victoria Azarenka,2,0,66,22,34,7,63,24,37,7
+451,Alize Cornet,Silvia Soler-Espinosa,2,1,74,24,26,10,53,13,47,10
+452,Francesca Schiavone,Kirsten Flipkens,2,1,62,34,38,20,53,33,47,13
+453,Marion Bartoli,Mariana Duque-Marino,2,1,62,34,38,14,57,32,43,14
+454,Ashleigh Barty,Maria Kirilenko,2,0,61,6,39,4,75,9,25,1
+455,Kaia Kanepi,Stefanie Voegele,2,1,71,20,29,5,58,13,42,9
+456,Paula Ormaechea,Yaroslava Shvedova,2,1,64,27,36,14,74,26,26,7
+457,Na Li,Bethanie Mattek-Sands,2,0,63,34,37,17,54,35,46,18
+458,Yulia Putintseva,Sara Errani,2,0,64,11,36,5,87,28,13,3
+459,Sabine Lisicki,Maria-Teresa Torro-Flor,2,1,68,26,32,8,74,17,26,5
+460,Shelby Rogers,Carla Suarez Navarro,2,0,67,38,33,14,63,41,37,14
+461,Monica Puig,Madison Keys,2,1,52,26,48,21,61,31,39,11
+462,Mathilde Johansson,Ana Ivanovic,2,0,73,17,27,4,55,20,45,10
+463,Zuzana Kucova,Virginie Razzano,2,0,72,36,28,10,72,42,28,14
+464,Dinah Pfizenmaier,Urszula Radwanska,2,1,60,24,40,15,67,20,33,9
+465,Agnieszka Radwanska,Mallory Burdette,2,1,65,23,35,11,73,17,27,5
+466,Jana Cepelova,Angelique Kerber,2,0,70,12,30,3,62,24,38,11
+467,Varvara Lepchenko,Elina Svitolina,2,1,61,23,39,12,65,22,35,10
+468,Magdalena Rybarikova,Svetlana Kuznetsova,2,0,66,32,34,11,79,36,21,7
+469,Caroline Wozniacki,Bojana Jovanovski,2,0,70,29,30,10,68,34,32,8
+470,Galina Voskoboeva,Roberta Vinci,2,0,60,36,40,11,56,35,44,18
+471,Anastasia Pavlyuchenkova,Petra Cetkovska,2,0,50,33,50,22,54,29,46,20
+472,Johanna Larsson,Sorana Cirstea,2,0,63,12,37,9,54,27,46,14
+473,Serena Williams,Caroline Garcia,2,1,69,23,31,9,53,16,47,9
+474,Jie Zheng,Maria Sharapova,3,0,81,23,19,3,57,22,43,13
+475,Marina Erakovic,Sloane Stephens,3,0,64,37,36,15,78,58,22,11
+476,Jelena Jankovic,Samantha Stosur,3,1,73,39,27,13,70,35,30,16
+477,Petra Kvitova,Jamie Hampton,3,0,63,24,37,10,51,24,49,12
+478,Alize Cornet,Victoria Azarenka,3,0,65,28,35,10,69,40,31,11
+479,Marion Bartoli,Francesca Schiavone,3,0,62,14,38,8,53,17,47,15
+480,Stefanie Voegele,Maria Kirilenko,3,0,52,30,48,19,57,27,43,20
+481,Bethanie Mattek-Sands,Paula Ormaechea,3,1,71,34,29,12,55,32,45,8
+482,Sabine Lisicki,Sara Errani,3,0,46,15,54,7,89,34,11,2
+483,Monica Puig,Carla Suarez Navarro,3,0,59,24,41,12,72,39,28,8
+484,Virginie Razzano,Ana Ivanovic,3,0,70,18,30,7,73,32,27,8
+485,Agnieszka Radwanska,Dinah Pfizenmaier,3,1,61,26,39,16,62,24,38,12
+486,Varvara Lepchenko,Angelique Kerber,3,0,81,54,19,6,65,47,35,19
+487,Bojana Jovanovski,Svetlana Kuznetsova,3,0,69,31,31,10,67,29,33,11
+488,Petra Cetkovska,Roberta Vinci,3,0,63,26,37,11,62,32,38,18
+489,Serena Williams,Sorana Cirstea,3,1,67,22,33,10,56,13,44,6
+490,Sloane Stephens,Maria Sharapova,4,0,65,28,35,12,63,25,37,12
+491,Jamie Hampton,Jelena Jankovic,4,0,66,11,34,7,70,22,30,8
+492,Francesca Schiavone,Victoria Azarenka,4,0,57,11,43,3,88,28,12,3
+493,Bethanie Mattek-Sands,Maria Kirilenko,4,0,56,29,44,18,64,31,36,14
+494,Carla Suarez Navarro,Sara Errani,4,0,67,32,33,14,91,57,9,4
+495,Agnieszka Radwanska,Ana Ivanovic,4,1,57,21,43,15,50,19,50,15
+496,Svetlana Kuznetsova,Angelique Kerber,4,1,63,46,37,17,75,44,25,13
+497,Serena Williams,Roberta Vinci,4,1,62,24,38,12,68,20,32,9
+498,Jelena Jankovic,Maria Sharapova,5,0,63,31,37,16,66,30,34,13
+499,Maria Kirilenko,Victoria Azarenka,5,0,57,31,43,8,78,32,22,4
+500,Agnieszka Radwanska,Sara Errani,5,0,70,28,30,5,84,41,16,3
+501,Serena Williams,Svetlana Kuznetsova,5,1,66,42,34,12,77,28,23,7
+502,Victoria Azarenka,Maria Sharapova,6,0,72,28,28,8,62,41,38,10
+503,Serena Williams,Sara Errani,6,1,52,14,48,14,80,10,20,1
+504,Serena Williams,Maria Sharapova,7,1,69,27,31,8,55,20,45,20
+505,Richard Gasquet,Michael Russell,1,1,63,45,37,16,59,37,41,17
+506,Stephane Robert,Albano Olivetti,1,1,61,44,39,19,56,37,44,15
+507,Jan-Lennard Struff,Guillaume Rufin,1,0,55,61,45,32,55,66,45,27
+508,Aljaz Bedene,Dmitry Tursunov,1,0,52,41,48,19,55,52,45,27
+509,Feliciano Lopez,Florent Serra,1,1,58,54,42,30,61,63,39,30
+510,Kenny De Schepper,Bradley Klahn,1,0,59,68,41,37,71,72,29,26
+511,Andrey Kuznetsov,Dudi Sela,1,0,53,59,47,44,59,65,41,38
+512,Pablo Cuevas,Janko Tipsarevic,1,0,51,39,49,24,55,42,45,28
+513,Ernests Gulbis,Andreas Haider-Maurer,1,0,58,68,42,31,49,58,51,43
+514,Mikhail Kukushkin,Andrej Martin,1,1,51,35,49,27,49,35,51,20
+515,Roberto Bautista Agut,Thomaz Bellucci,1,1,75,44,25,12,57,28,43,10
+516,Nick Kyrgios,David Ferrer,1,0,69,44,31,9,55,40,45,21
+517,Tommy Robredo,Marinko Matosevic,1,1,54,49,46,30,59,44,41,27
+518,Robin Haase,Frank Dancevic,1,0,58,65,42,34,64,68,36,34
+519,Albert Ramos,Bernard Tomic,1,0,55,76,45,42,68,71,32,28
+520,Daniel Evans,Kei Nishikori,1,1,48,35,52,25,54,30,46,15
+521,Fernando Verdasco,Ivan Dodig,1,0,59,58,41,23,57,60,43,34
+522,Rhyne Williams,Nikolay Davydenko,1,0,55,56,45,26,57,57,43,28
+523,Ryan Harrison,Rafael Nadal,1,0,62,41,38,10,72,42,28,11
+524,Novak Djokovic,Ricardas Berankis,1,1,68,36,32,14,53,18,47,9
+525,Benjamin Becker,Lukas Rosol,1,1,52,38,48,27,47,44,53,27
+526,Lukasz Kubot,Jarkko Nieminen,1,0,38,28,62,27,59,38,41,19
+527,Joao Sousa,Grigor Dimitrov,1,1,58,61,42,27,58,53,42,27
+528,Tommy Haas,Paul-Henri Mathieu,1,1,59,38,41,15,56,29,44,16
+529,Yen-Hsun Lu,Daniel Gimeno-Traver,1,1,67,49,33,19,56,45,44,22
+530,Donald Young,Martin Klizan,1,1,74,39,26,10,47,10,53,10
+531,Florian Mayer,Juan Monaco,1,1,65,34,35,15,63,20,37,11
+532,Tobias Kamke,Steve Johnson,1,1,53,55,47,39,48,56,52,40
+533,Denis Istomin,Nicolas Almagro,1,1,64,50,36,23,64,36,36,14
+534,Julien Benneteau,Michal Przysiezny,1,1,61,49,39,25,58,52,42,27
+535,Sergiy Stakhovsky,Jeremy Chardy,1,0,53,62,47,33,56,64,44,40
+536,Jiri Vesely,Denis Kudla,1,0,55,50,45,30,63,56,37,27
+537,Paolo Lorenzi,Tomas Berdych,1,0,48,27,52,11,56,34,44,12
+538,Pablo Andujar,Thiemo de Bakker,1,1,60,44,40,19,52,33,48,19
+539,Thomas Fabbiano,Milos Raonic,1,0,66,46,34,17,63,51,37,19
+540,Jerzy Janowicz,Maximo Gonzalez,1,0,58,40,42,17,65,45,35,13
+541,Jack Sock,Philipp Petzschner,1,1,51,36,49,29,46,29,54,27
+542,Roger Federer,Grega Zemlja,1,1,60,41,40,21,49,29,51,18
+543,Santiago Giraldo,Carlos Berlocq,1,0,58,63,42,30,64,61,36,30
+544,Horacio Zeballos,Adrian Mannarino,1,0,52,44,48,29,57,47,43,30
+545,Guido Pella,Sam Querrey,1,0,56,54,44,31,58,60,42,26
+546,John Isner,Filippo Volandri,1,1,73,42,27,11,56,18,44,10
+547,Adrian Ungur,Gael Monfils,1,0,56,18,44,8,84,33,16,4
+548,Albert Montanes,Edouard Roger-Vasselin,1,0,51,29,49,20,64,38,36,18
+549,Collin Altamirano,Philipp Kohlschreiber,1,0,58,27,42,8,58,31,42,16
+550,Rogerio Dutra Silva,Vasek Pospisil,1,1,58,64,42,39,48,66,52,46
+551,Benoit Paire,Alex Bogomolov Jr.,1,0,51,72,49,40,64,82,36,33
+552,Tim Smyczek,James Duckworth,1,1,66,47,34,21,55,47,45,26
+553,Jurgen Zopp,Marcel Granollers,1,0,51,46,49,27,52,43,48,27
+554,Rajeev Ram,Fabio Fognini,1,1,73,40,27,10,54,21,46,13
+555,David Goffin,Alexandr Dolgopolov,1,0,67,44,33,14,45,34,55,27
+556,Nicolas Mahut,Mikhail Youzhny,1,0,63,50,37,22,64,50,36,20
+557,Jurgen Melzer,Evgeny Donskoy,1,0,65,39,35,17,57,48,43,27
+558,Igor Sijsling,Peter Gojowczyk,1,0,55,49,45,24,51,40,49,29
+559,Lleyton Hewitt,Brian Baker,1,1,46,38,54,29,49,32,51,28
+560,Guillermo Garcia-Lopez,Juan Martin Del Potro,1,0,48,57,52,45,62,62,38,31
+561,Andy Murray,Michael Llodra,1,1,67,36,33,15,63,31,37,12
+562,Victor Hanescu,Leonardo Mayer,1,0,67,72,33,29,57,60,43,37
+563,Andreas Seppi,Xavier Malisse,1,1,59,62,41,24,46,41,54,36
+564,Lukas Lacko,Somdev Devvarman,1,0,50,48,50,29,56,60,44,31
+565,Stanislas Wawrinka,Radek Stepanek,1,1,51,32,49,27,66,37,34,16
+566,James Blake,Ivo Karlovic,1,0,64,82,36,36,63,90,37,29
+567,Marcos Baghdatis,Go Soeda,1,1,60,34,40,20,54,30,46,15
+568,Daniel Brands,Kevin Anderson,1,0,59,58,41,20,53,50,47,35
+569,Richard Gasquet,Stephane Robert,1,1,58,50,42,22,53,35,47,19
+570,Guillaume Rufin,Dmitry Tursunov,1,0,43,14,57,12,58,24,42,13
+571,Feliciano Lopez,Bradley Klahn,1,1,52,59,48,38,71,69,29,18
+572,Pablo Andujar,Milos Raonic,1,0,64,32,36,17,63,44,37,12
+573,Maximo Gonzalez,Jack Sock,1,0,68,51,32,17,62,54,38,25
+574,Dudi Sela,Janko Tipsarevic,1,0,62,30,38,10,44,32,56,31
+575,Andreas Haider-Maurer,Mikhail Kukushkin,1,0,60,45,40,17,57,42,43,29
+576,Roberto Bautista Agut,David Ferrer,1,0,62,42,38,20,59,48,41,29
+577,Roger Federer,Carlos Berlocq,1,1,52,27,48,22,84,36,16,2
+578,Adrian Mannarino,Sam Querrey,1,1,55,68,45,41,58,77,42,34
+579,Tommy Robredo,Frank Dancevic,1,1,64,39,36,12,65,34,35,10
+580,Bernard Tomic,Daniel Evans,1,0,62,47,38,23,56,43,44,27
+581,John Isner,Gael Monfils,1,1,70,71,30,21,83,74,17,11
+582,Edouard Roger-Vasselin,Philipp Kohlschreiber,1,0,61,48,39,25,58,44,42,26
+583,Ivan Dodig,Nikolay Davydenko,1,1,66,45,34,14,51,25,49,18
+584,Rogerio Dutra Silva,Rafael Nadal,1,0,58,21,42,12,69,30,31,11
+585,Novak Djokovic,Benjamin Becker,1,1,74,48,26,11,59,33,41,19
+586,Jarkko Nieminen,Joao Sousa,1,0,64,65,36,25,63,66,37,23
+587,Alex Bogomolov Jr.,Tim Smyczek,1,0,69,87,31,30,63,73,37,26
+588,Marcel Granollers,Rajeev Ram,1,1,62,63,38,28,66,66,34,22
+589,Tommy Haas,Yen-Hsun Lu,1,1,60,51,40,20,68,44,32,13
+590,Alexandr Dolgopolov,Mikhail Youzhny,1,0,53,35,47,19,52,33,48,23
+591,Evgeny Donskoy,Peter Gojowczyk,1,1,55,63,45,34,55,67,45,30
+592,Lleyton Hewitt,Juan Martin Del Potro,1,1,50,56,50,38,57,57,43,39
+593,Andy Murray,Leonardo Mayer,1,1,57,41,43,35,63,40,37,16
+594,Donald Young,Florian Mayer,1,0,62,42,38,20,57,48,43,21
+595,Andreas Seppi,Somdev Devvarman,1,1,52,48,48,27,56,41,44,24
+596,Tobias Kamke,Denis Istomin,1,0,46,19,54,23,46,24,54,21
+597,Stanislas Wawrinka,Ivo Karlovic,1,1,60,51,40,25,63,52,37,21
+598,Marcos Baghdatis,Kevin Anderson,1,1,43,24,57,24,64,27,36,11
+599,Julien Benneteau,Jeremy Chardy,1,1,58,39,42,18,57,29,43,13
+600,Denis Kudla,Tomas Berdych,1,0,60,49,40,26,57,49,43,28
+601,Richard Gasquet,Dmitry Tursunov,1,1,64,42,36,21,53,46,47,24
+602,Feliciano Lopez,Milos Raonic,1,0,59,56,41,29,67,66,33,19
+603,Jack Sock,Janko Tipsarevic,1,0,46,35,54,27,56,46,44,33
+604,Mikhail Kukushkin,David Ferrer,1,0,51,50,49,27,60,47,40,20
+605,Roger Federer,Adrian Mannarino,1,1,57,36,43,15,65,27,35,9
+606,Tommy Robredo,Daniel Evans,1,1,60,58,40,25,62,65,38,23
+607,John Isner,Philipp Kohlschreiber,1,0,74,72,26,14,73,73,27,20
+608,Ivan Dodig,Rafael Nadal,1,0,52,28,48,18,65,41,35,20
+609,Novak Djokovic,Joao Sousa,1,1,68,30,32,12,59,30,41,10
+610,Tim Smyczek,Marcel Granollers,1,0,61,63,39,26,59,66,41,28
+611,Tommy Haas,Mikhail Youzhny,1,0,50,37,50,22,57,43,43,21
+612,Evgeny Donskoy,Lleyton Hewitt,1,0,58,55,42,17,52,49,48,37
+613,Andy Murray,Florian Mayer,1,1,51,37,49,25,62,40,38,15
+614,Andreas Seppi,Denis Istomin,1,0,61,55,39,23,65,65,35,23
+615,Stanislas Wawrinka,Marcos Baghdatis,1,1,52,55,48,37,47,50,53,43
+616,Julien Benneteau,Tomas Berdych,1,0,52,25,48,12,58,39,42,14
+617,Richard Gasquet,Milos Raonic,1,1,59,81,41,45,56,83,44,46
+618,Janko Tipsarevic,David Ferrer,1,0,59,68,41,34,65,68,35,23
+619,Roger Federer,Tommy Robredo,1,0,60,38,40,16,70,61,30,17
+620,Philipp Kohlschreiber,Rafael Nadal,1,0,63,58,37,26,66,54,34,26
+621,Mikhail Youzhny,Lleyton Hewitt,1,1,59,55,41,29,52,48,48,37
+622,Andy Murray,Denis Istomin,1,1,63,58,37,23,69,55,31,20
+623,Stanislas Wawrinka,Tomas Berdych,1,1,58,55,42,27,58,51,42,19
+624,Richard Gasquet,David Ferrer,1,1,59,57,41,31,63,53,37,29
+625,Tommy Robredo,Rafael Nadal,1,0,52,20,48,9,61,31,39,14
+626,Novak Djokovic,Mikhail Youzhny,1,1,68,49,32,19,56,29,44,23
+627,Andy Murray,Stanislas Wawrinka,1,0,63,37,37,22,55,37,45,20
+628,Novak Djokovic,Stanislas Wawrinka,1,1,67,64,33,25,50,68,50,48
+629,Richard Gasquet,Rafael Nadal,1,0,64,41,36,15,71,51,29,16
+630,Novak Djokovic,Rafael Nadal,1,0,68,40,32,16,64,51,36,24
+631,S Williams,V Azarenka,7,1,57,44,43,20,57,31,43,23
+632,F Pennetta,V Azarenka,6,0,44,12,56,7,56,21,44,10
+633,S Williams,N Li,6,1,63,26,37,9,63,20,37,10
+634,R Vinci,F Pennetta,5,0,60,21,40,7,63,23,37,8
+635,D Hantuchova,V Azarenka,5,0,58,14,42,5,60,20,40,9
+636,E Makarova,N Li,5,0,60,40,40,18,68,43,32,14
+637,A Ivanovic,V Azarenka,4,0,55,26,45,18,73,40,27,7
+638,A Riske,D Hantuchova,4,0,69,37,31,14,60,38,40,19
+639,S Halep,F Pennetta,4,0,75,22,25,8,45,23,55,16
+640,C Giorgi,R Vinci,4,0,54,18,46,11,54,19,46,15
+641,S Williams,S Stephens,4,1,62,26,38,11,66,28,34,8
+642,J Jankovic,N Li,4,0,66,8,34,3,58,17,42,8
+643,C Suarez Navarro,A Kerber,4,1,78,54,22,9,68,47,32,12
+644,A Ivanovic,C McHale,3,1,60,41,40,18,64,39,36,14
+645,C Wozniack,C Giorgi,3,0,62,34,38,21,63,47,37,22
+646,M Kirilenko,S Halep,3,0,54,9,46,5,81,23,19,3
+647,A Cornet,V Azarenka,3,0,56,44,44,21,68,48,32,17
+648,K Knapp,R Vinci,3,0,58,22,42,8,51,25,49,16
+649,P Kvitova,A Riske,3,0,52,18,48,10,70,22,30,6
+650,S Kuznetsova,F Pennetta,3,0,55,21,45,10,51,26,49,17
+651,J Glushko,D Hantuchova,3,0,73,43,27,10,61,41,39,21
+652,L Robson,N Li,3,0,52,16,48,16,65,29,35,10
+653,J Hampton,S Stephens,3,0,55,14,45,6,70,25,30,8
+654,S Williams,Y Shvedova,3,1,66,28,44,7,59,14,41,12
+655,A.Radwanska,A Pavlyuchenkova,3,1,75,42,25,12,53,30,47,13
+656,E Makarova,S Lisicki,3,1,61,36,39,15,56,28,44,12
+657,J Zheng,C Suarez Navarro,3,0,75,27,25,6,79,30,21,5
+658,J Jankovic,K Nara,3,1,52,31,48,12,81,30,19,5
+659,K Kanepi,A Kerber,3,0,44,17,56,10,44,17,56,14
+660,F Pennetta,S Errani,2,1,58,24,42,11,93,16,7,1
+661,S Williams,G Voskoboeva,2,1,64,21,36,11,57,16,43,7
+662,C Wozniacki,C Scheepers,2,1,76,22,34,6,55,12,45,5
+663,E Bouchard,A Kerber,2,0,47,27,53,27,68,34,32,14
+664,A Wozniak,V Azarenka,2,0,48,10,52,4,65,25,35,8
+665,C McHale,E Svitolina,2,1,66,52,34,21,59,44,41,20
+666,A Ivanovic,A Dulgheru,2,1,64,39,36,12,79,33,21,5
+667,P Ormaechea,S Lisicki,2,0,41,9,59,15,42,24,58,15
+668,A Cornet,A Tomljanovic,2,1,56,28,44,12,55,13,45,9
+669,D Hantuchova,V Duval,2,1,46,14,54,18,74,21,26,6
+670,K Nara,S Cirstea,2,1,80,25,20,8,58,19,42,6
+671,A Riske,M Barthel,2,1,62,26,38,11,57,21,43,15
+672,S Kuznetsova,S Peng,2,1,54,39,46,19,71,44,29,14
+673,S Arvidsson,N Li,2,0,67,18,33,8,58,19,42,13
+674,U Radwanska,S Stephens,2,0,67,10,33,7,67,20,33,8
+675,V Williams,J Zheng,2,0,52,39,48,26,74,49,26,15
+676,J Hampton,K Mladenovic,2,1,56,27,44,15,59,30,41,14
+677,C Vandeweghe,C Suarez Navarro,2,0,47,14,53,10,82,27,18,7
+678,L Robson,C Garcia,2,1,59,28,41,17,64,31,36,17
+679,A Barty,A Pavlyuchenkova,2,0,52,13,48,10,55,21,45,11
+680,P Kvitova,M Doi,1,1,73,47,27,11,58,21,42,17
+681,C Wozniacki,Y Duan,1,1,69,28,31,12,65,24,35,8
+682,D Pfizenmaier,V Azarenka,1,0,67,17,33,4,51,16,49,12
+683,O Rogowska,S Errani,1,0,47,8,53,4,69,21,31,7
+684,V Duval,S Stosur,1,1,63,49,37,19,63,45,37,17
+685,A Ivanovic,A Tatishvili,1,1,62,17,48,11,63,13,47,4
+686,J Goerges,C McHale,1,0,53,32,47,11,58,28,42,13
+687,V Lepchenko,A Dulgheru,1,0,63,38,37,18,64,51,36,19
+688,S Kuznetsova,M Burdette,1,1,63,26,37,12,68,27,32,15
+689,B Jovanovski,A Petkovic,1,1,60,31,40,15,74,25,26,3
+690,S Peng,Y Meusburger,1,1,54,18,46,16,73,24,27,9
+691,A Cornet,M Koehler,1,1,53,19,47,18,45,21,55,13
+692,H Watson,S Halep,1,0,54,29,46,16,73,40,27,7
+693,K Flipkens,V Williams,1,0,46,15,54,7,52,24,48,12
+694,A.Radwanska,S.Soler-Espinosa,1,1,72,26,28,6,50,10,50,10
+695,S Williams,F Schiavone,1,1,51,13,49,12,43,8,57,5
+696,O Govortsova,N Li,1,0,68,22,42,6,62,19,48,13
+697,M Minella,S Stephens,1,0,65,43,35,18,58,48,42,26
+698,J Jankovic,M Keys,1,1,64,28,36,14,58,19,42,13
+699,L Robson,L Dominguez Lino,1,1,57,27,43,7,60,20,40,8
+700,J Hampton,L Arruabarrena,1,1,61,27,39,13,52,16,48,12
+701,V Dushevina,S Lisicki,1,0,54,21,46,14,43,22,57,22
+702,P Ormaechea,K Date-Krumm,1,1,59,32,41,10,69,28,31,6
+703,K Pliskova,E Bouchard,1,0,53,48,47,21,72,45,28,16
+704,L Hradecka,A Kerber,1,0,49,17,51,4,50,16,50,14
+705,L Davis,C Suarez Navarro,1,0,63,12,37,3,78,21,22,4
+706,K Mladenovic,A Medina Garrigues,1,1,51,29,49,15,61,32,39,11
+707,B.Becker,A.Murray,1,0,59,29,41,14,57,39,43,20
+708,J.Ward,Y-H.Lu,1,0,62,77,38,35,67,85,33,31
+709,N.Mahut,J.Hajek,1,1,72,44,28,10,70,34,30,14
+710,T.Robredo,A.Bogomolov Jr.,1,1,77,40,23,12,79,35,21,8
+711,R.Haase,M.Youzhny,1,0,68,61,32,15,67,53,33,17
+712,M.Gicquel,V.Pospisil,1,0,59,41,41,27,70,56,30,11
+713,A.Kuznetsov,A.Montanes,1,1,63,56,37,21,73,59,27,14
+714,J.Tipsarevic,V.Troicki,1,0,61,47,39,21,71,55,29,16
+715,M.Baghdatis,M.Cilic,1,0,61,31,39,16,70,45,30,16
+716,K.De Schepper,P.Lorenzi,1,1,67,56,33,21,54,40,46,22
+717,L.Lacko,R.Ram,1,0,64,66,36,18,67,64,33,23
+718,J.Monaco,B.Knittel,1,1,78,46,22,9,58,33,42,17
+719,T.Kamke,J.Benneteau,1,0,69,60,31,14,63,65,37,26
+720,F.Verdasco,X.Malisse,1,1,63,58,37,21,63,48,37,24
+721,E.Roger-Vasselin,E.Gulbis,1,0,66,48,34,21,65,59,35,20
+722,J-W.Tsonga,D.Goffin,1,1,68,54,32,15,71,46,29,19
+723,V.Hanescu,R.Federer,1,0,85,26,15,3,70,35,30,14
+724,R.Dutra Silva,S.Stakhovsky,1,0,54,27,46,17,62,38,38,20
+725,J.Reister,L.Rosol,1,1,68,102,32,27,59,81,41,39
+726,F.Fognini,J.Melzer,1,0,66,52,34,21,69,62,31,22
+727,K.Edmund,J.Janowicz,1,0,71,39,29,10,68,40,32,17
+728,R.Stepanek,M.Reid,1,1,66,37,34,17,60,34,40,12
+729,M.Matosevic,G.Rufin,1,0,53,43,47,22,47,42,53,26
+730,N.Almagro,J.Zopp,1,1,55,43,45,29,52,51,48,27
+731,L.Hewitt,S.Wawrinka,1,1,57,37,43,26,60,41,40,20
+732,D.Brown,G.Garcia-Lopez,1,1,75,47,25,12,67,32,33,10
+733,P.Andujar,A.Mannarino,1,0,60,32,40,12,63,31,37,17
+734,J.Isner,E.Donskoy,1,1,75,55,25,19,65,47,35,15
+735,A.Ungur,B.Paire,1,0,59,43,41,25,63,51,37,18
+736,S.Robert,A.Falla,1,1,68,50,32,13,57,41,43,22
+737,L.Kubot,I.Andreev,1,1,60,34,40,16,69,28,31,9
+738,R.Nadal,S.Darcis,1,0,67,52,33,21,60,53,40,28
+739,A.Ramos,J.Del Potro,1,0,58,30,42,8,73,45,27,12
+740,G.Pella,J.Levine,1,0,65,58,35,26,63,63,37,29
+741,G.Zemlja,M.Russell,1,1,68,67,32,20,66,60,34,17
+742,G.Dimitrov,S.Bolelli,1,1,73,43,27,10,59,34,41,13
+743,D.Istomin,A.Seppi,1,0,62,78,38,32,61,84,39,36
+744,M.Llodra,J.Nieminen,1,1,62,43,38,21,65,44,35,18
+745,L.Mayer,A.Bedene,1,1,63,47,37,20,60,34,40,16
+746,K.Nishikori,M.Ebden,1,1,67,37,33,19,61,39,39,12
+747,I.Dodig,P.Kohlschreiber,1,1,65,84,35,25,57,75,43,37
+748,J.Duckworth,D.Kudla,1,0,58,63,42,20,61,63,39,35
+749,A.Kuznetsov,I.Sijsling,1,0,61,39,39,11,60,49,40,21
+750,M.Raonic,C.Berlocq,1,1,71,45,29,13,64,42,36,18
+751,G.Elias,A.Dolgopolov,1,0,43,22,57,26,64,38,36,19
+752,H.Zeballos,S.Giraldo,1,0,61,66,39,37,73,76,27,30
+753,R.Bautista Agut,T.Gabashvili,1,1,75,63,25,16,58,40,42,21
+754,D.Ferrer,M.Alund,1,1,68,57,32,15,74,53,26,13
+755,M.Klizan,T.Berdych,1,0,64,38,36,18,62,47,38,17
+756,D.Brands,D.Gimeno-Traver,1,1,65,90,35,38,69,93,31,27
+757,P.Petzschner,M.Przysiezny,1,0,65,31,35,11,56,41,44,21
+758,K.Anderson,O.Rochus,1,1,72,39,28,14,62,30,38,17
+759,B.Tomic,S.Querrey,1,1,78,86,22,20,64,81,36,28
+760,J.Blake,T.De Bakker,1,1,52,30,48,20,64,30,36,14
+761,A.Haider-Maurer,G.Soeda,1,0,56,43,44,18,55,39,45,25
+762,R.Gasquet,M.Granollers,1,1,65,65,35,22,72,73,28,15
+763,D.Tursunov,T.Haas,1,0,56,37,44,24,64,56,36,18
+764,W.Odesnik,Y-T.Wang,1,0,70,73,30,28,69,69,31,22
+765,R.Berankis,P-H.Mathieu,1,0,52,73,48,36,61,73,39,30
+766,G.Simon,F.Lopez,1,0,60,49,40,27,71,55,29,17
+767,R.Harrison,J.Chardy,1,0,65,70,35,30,66,66,34,22
+768,B.Kavcic,J.Struff,1,0,58,40,42,12,59,38,41,22
+769,B.Reynolds,S.Johnson,1,1,62,68,38,38,55,76,45,39
+770,N.Djokovic,F.Mayer,1,1,63,41,37,26,60,46,40,20
+771,Y-H.Lu,A.Murray,2,0,66,49,34,13,63,44,37,20
+772,T.Robredo,N.Mahut,2,1,63,52,37,28,65,48,35,18
+773,V.Pospisil,M.Youzhny,2,0,63,83,37,25,64,76,36,39
+774,V.Troicki,A.Kuznetsov,2,1,63,43,37,16,65,34,35,15
+775,J.Monaco,R.Ram,2,1,68,54,32,24,77,68,23,11
+776,F.Verdasco,J.Benneteau,2,1,55,48,45,27,62,55,38,24
+777,J-W.Tsonga,E.Gulbis,2,0,68,40,32,13,61,40,39,17
+778,S.Stakhovsky,R.Federer,2,1,66,83,34,36,72,91,28,24
+779,J.Melzer,J.Reister,2,1,64,60,36,33,70,68,30,27
+780,N.Almagro,G.Rufin,2,1,69,71,31,20,63,63,37,18
+781,D.Brown,L.Hewitt,2,1,64,71,36,25,55,52,45,29
+782,S.Robert,B.Paire,2,0,61,42,39,23,57,49,43,23
+783,J.Levine,J.Del Potro,2,0,61,41,39,16,69,46,31,16
+784,G.Dimitrov,G.Zemlja,2,0,68,92,32,33,56,79,44,47
+785,K.Nishikori,L.Mayer,2,1,67,51,33,19,65,44,35,15
+786,D.Kudla,I.Dodig,2,0,57,39,43,24,61,55,39,22
+787,M.Raonic,I.Sijsling,2,0,68,57,32,17,67,52,33,23
+788,D.Brands,T.Berdych,2,0,75,53,25,11,58,40,42,26
+789,K.Anderson,M.Przysiezny,2,1,69,49,31,18,60,42,40,21
+790,J.Blake,B.Tomic,2,0,59,37,41,16,72,54,28,13
+791,R.Gasquet,G.Soeda,2,1,57,47,43,23,56,45,44,20
+792,J.Struff,J.Chardy,2,1,55,36,45,17,59,28,41,16
+793,N.Djokovic,B.Reynolds,2,1,59,39,41,22,68,53,32,15
+794,T.Robredo,A.Murray,3,0,67,47,33,12,65,44,35,16
+795,J.Melzer,S.Stakhovsky,3,1,67,51,33,19,62,45,38,21
+796,N.Almagro,J.Janowicz,3,0,72,58,28,8,69,52,31,16
+797,A.Mannarino,D.Brown,3,1,65,44,35,20,58,42,42,16
+798,G.Zemlja,J.Del Potro,3,0,67,53,33,11,61,47,39,20
+799,K.Nishikori,A.Seppi,3,0,69,63,31,23,60,65,40,34
+800,I.Sijsling,I.Dodig,3,0,62,12,38,4,47,12,53,17
+801,D.Ferrer,A.Dolgopolov,3,1,70,76,30,22,59,76,41,33
+802,K.Anderson,T.Berdych,3,0,60,53,40,25,53,54,47,27
+803,R.Gasquet,B.Tomic,3,0,69,83,31,27,81,101,19,15
+804,F.Lopez,T.Haas,3,0,54,48,46,30,76,63,24,18
+805,N.Djokovic,J.Chardy,3,1,74,40,26,12,66,32,34,15
+806,M.Youzhny,A.Murray,4,0,61,36,39,16,63,55,37,16
+807,F.Verdasco,K.De Schepper,4,1,64,42,36,18,67,43,33,15
+808,J.Janowicz,J.Melzer,4,1,57,68,43,36,71,76,29,28
+809,L.Kubot,A.Mannarino,4,1,67,72,33,25,59,69,41,35
+810,A.Seppi,J.Del Potro,4,0,59,47,41,18,72,55,28,18
+811,D.Ferrer,I.Dodig,4,1,66,62,34,29,66,64,34,25
+812,B.Tomic,T.Berdych,4,0,71,82,29,22,58,68,42,30
+813,N.Djokovic,T.Haas,4,1,65,44,35,17,73,43,27,14
+814,F.Verdasco,A.Murray,5,0,59,63,41,29,69,72,31,23
+815,L.Kubot,J.Janowicz,5,0,57,44,43,20,68,63,32,12
+816,D.Ferrer,J.Del Potro,5,0,68,45,32,17,72,55,28,11
+817,N.Djokovic,T.Berdych,5,1,61,42,39,21,53,33,47,27
+818,J.Janowicz,A.Murray,6,0,55,54,45,27,70,60,30,24
+819,N.Djokovic,J.Del Potro,6,1,69,102,31,21,60,82,40,42
+820,N.Djokovic,A.Murray,7,0,65,40,35,15,64,48,36,16
+821,M.Koehler,V.Azarenka,1,0,60,21,40,8,72,31,28,4
+822,E.Baltacha,F.Pennetta,1,0,69,23,31,6,53,18,47,15
+823,S-W.Hsieh,T.Maria,1,1,63,17,37,10,56,16,44,7
+824,A.Cornet,V.King,1,1,57,36,43,21,68,45,32,15
+825,Y.Putintseva,K.Flipkens,1,0,73,34,27,12,66,33,34,15
+826,A.Tomljanovic,B.Jovanovski,1,0,59,38,41,22,69,57,31,18
+827,Y.Wickmayer,V.Dolonc,1,0,69,40,31,13,69,33,31,12
+828,J.Jankovic,J.Konta,1,1,68,31,32,12,52,21,48,17
+829,V.Razzano,A.Ivanovic,1,0,78,21,22,9,67,29,33,10
+830,E.Bouchard,G.Voskoboeva,1,1,61,44,39,24,59,49,41,21
+831,S.Arvidsson,M.Lucic-Baroni,1,0,73,19,27,6,64,28,36,14
+832,C.Suarez Navarro,L.Dominguez Lino,1,1,68,27,32,14,64,16,36,5
+833,J.Larsson,E.Makarova,1,0,63,20,37,9,82,30,18,7
+834,G.Muguruza,A.Keothavong,1,1,67,28,33,9,62,18,38,11
+835,K.Bertens,Y.Shvedova,1,0,57,31,43,11,59,19,41,11
+836,P.Kvitova,C.Vandeweghe,1,1,67,40,33,17,64,40,36,20
+837,K.Mladenovic,M.Sharapova,1,0,52,29,48,17,68,35,32,14
+838,M.Larcher De Brito,M.Oudin,1,1,68,46,32,15,65,32,35,15
+839,L.Hradecka,K.Knapp,1,0,65,23,35,8,63,34,37,11
+840,L.Safarova,L.Davis,1,1,63,24,37,11,66,21,34,2
+841,S.Voegele,S.Cirstea,1,0,51,29,49,19,59,32,41,15
+842,C.Giorgi,S.Murray,1,1,54,23,46,19,58,28,42,16
+843,C.McHale,A.Glatch,1,1,60,24,40,13,54,26,46,8
+844,M.Bartoli,E.Svitolina,1,1,58,29,42,16,56,24,44,14
+845,E.Cabeza Candela,C.Wozniacki,1,0,68,9,32,3,72,29,28,2
+846,P.Cetkovska,D.Vekic,1,1,69,28,31,7,53,23,47,11
+847,P.Parmentier,A.Petkovic,1,0,62,16,38,10,77,28,23,7
+848,S.Stephens,J.Hampton,1,1,73,34,27,6,66,21,34,11
+849,E.Birnerova,V.Lepchenko,1,1,76,44,24,15,72,43,28,13
+850,L.Arruabarrena,L.Tsurenko,1,0,79,23,21,4,60,24,40,10
+851,S.Soler-Espinosa,M.Doi,1,1,58,33,42,10,64,25,36,14
+852,S.Errani,M.Puig,1,0,75,28,25,6,68,28,32,13
+853,M.Krajicek,N.Li,1,0,50,11,50,11,62,24,38,11
+854,O.Govortsova,S.Halep,1,0,58,30,42,16,56,29,44,15
+855,N.Bratchikova,A.Beck,1,0,65,20,35,8,72,29,28,14
+856,K.Zakopalova,D.Hantuchova,1,1,54,28,46,13,63,15,37,8
+857,M.Camerin,D.Cibulkova,1,0,55,42,45,26,65,43,35,17
+858,M.Torro-Flor,I.Begu,1,1,72,25,28,8,61,23,39,11
+859,Kr.Pliskova,J.Cepelova,1,0,69,16,31,6,62,24,38,12
+860,R.Vinci,C.Scheepers,1,1,57,24,43,14,52,10,48,7
+861,Ka.Pliskova,N.Petrova,1,1,73,33,27,4,60,20,40,8
+862,A.Tatishvili,P.Martic,1,0,67,31,33,13,59,32,41,14
+863,B.Zahlavova Strycova,M.Rybarikova,1,1,62,37,38,14,64,29,36,16
+864,A.Pavlyuchenkova,T.Pironkova,1,0,57,9,43,5,60,18,40,13
+865,M.Niculescu,M.Barthel,1,0,85,46,15,7,68,39,32,17
+866,H.Watson,M.Keys,1,0,53,18,47,13,63,25,37,10
+867,T.Babos,M.Johansson,1,0,51,25,49,15,59,32,41,17
+868,A.Radwanska,Y.Meusburger,1,1,73,24,27,5,64,7,36,6
+869,B.Mattek-Sands,A.Kerber,1,0,55,29,45,10,58,21,42,13
+870,K.Kanepi,T.Moore,1,1,54,48,46,26,58,58,42,24
+871,M.Burdette,U.Radwanska,1,0,74,38,26,10,68,39,32,15
+872,R.Oprandi,A.Riske,1,0,68,34,32,12,72,50,28,10
+873,A.Medina Garrigues,S.Peng,1,0,66,19,34,9,70,44,30,9
+874,A.Morita,M.Erakovic,1,0,75,41,25,8,59,45,41,15
+875,M.Duque-Marino,J.Goerges,1,1,64,48,36,20,62,47,38,21
+876,M.Kirilenko,L.Robson,1,0,60,21,40,10,53,24,47,16
+877,A.Schmiedlova,S.Stosur,1,0,65,24,35,7,65,25,35,8
+878,O.Puchkova,A.Rus,1,1,69,24,31,4,56,19,44,15
+879,E.Vesnina,A.Hlavackova,1,1,73,29,27,7,79,25,21,6
+880,S.Lisicki,F.Schiavone,1,1,60,27,40,11,54,15,46,11
+881,A.Cadantu,T.Paszek,1,1,71,29,29,8,66,19,34,6
+882,K.Date-Krumm,C.Witthoeft,1,1,65,17,35,10,41,6,59,7
+883,C.Garcia,J.Zheng,1,1,64,33,36,11,70,25,30,10
+884,S.Williams,M.Minella,1,1,73,23,27,7,48,12,52,12
+885,A.Cornet,S-W.Hsieh,2,1,64,29,36,14,53,14,47,9
+886,B.Jovanovski,K.Flipkens,2,0,59,24,41,15,58,27,42,14
+887,J.Jankovic,V.Dolonc,2,0,61,23,39,7,72,33,28,11
+888,E.Bouchard,A.Ivanovic,2,1,54,25,46,10,51,12,49,10
+889,C.Suarez Navarro,M.Lucic-Baroni,2,1,59,30,41,16,56,28,44,16
+890,G.Muguruza,E.Makarova,2,0,58,37,42,21,68,49,32,16
+891,M.Larcher De Brito,M.Sharapova,2,1,71,34,29,16,60,20,40,9
+892,L.Safarova,K.Knapp,2,0,65,37,35,19,67,39,33,14
+893,C.Giorgi,S.Cirstea,2,1,53,36,47,20,58,40,42,16
+894,M.Bartoli,C.McHale,2,1,64,38,36,11,64,26,36,11
+895,P.Cetkovska,C.Wozniacki,2,1,71,31,29,7,69,15,31,8
+896,S.Stephens,A.Petkovic,2,1,64,48,36,19,63,38,37,22
+897,L.Tsurenko,E.Birnerova,2,0,48,17,52,17,55,23,45,19
+898,M.Puig,S.Soler-Espinosa,2,1,63,43,37,24,57,38,43,18
+899,S.Halep,N.Li,2,0,71,28,29,8,73,29,27,7
+900,K.Zakopalova,A.Beck,2,1,59,28,41,10,66,23,34,9
+901,M.Torro-Flor,D.Cibulkova,2,0,61,9,39,6,44,15,56,13
+902,R.Vinci,J.Cepelova,2,1,58,47,42,15,61,37,39,22
+903,P.Martic,Ka.Pliskova,2,1,54,24,46,15,63,28,37,6
+904,T.Pironkova,B.Zahlavova Strycova,2,1,68,37,32,10,64,28,36,15
+905,M.Keys,M.Barthel,2,1,65,25,35,12,74,32,26,8
+906,A.Radwanska,M.Johansson,2,1,62,23,38,12,66,24,34,6
+907,M.Erakovic,S.Peng,2,1,58,35,42,15,74,30,26,9
+908,O.Puchkova,S.Stosur,2,0,56,9,44,3,69,20,31,11
+909,S.Lisicki,E.Vesnina,2,1,65,28,35,10,74,14,26,4
+910,K.Date-Krumm,A.Cadantu,2,1,79,32,21,8,79,30,21,7
+911,S.Williams,C.Garcia,2,1,71,25,29,8,75,24,25,9
+912,A.Cornet,F.Pennetta,3,0,56,28,44,19,56,30,44,16
+913,V.Dolonc,K.Flipkens,3,0,65,11,35,8,63,27,37,8
+914,C.Suarez Navarro,E.Bouchard,3,1,66,31,34,13,56,25,44,15
+915,P.Kvitova,E.Makarova,3,0,63,30,37,8,75,35,25,8
+916,K.Knapp,M.Larcher De Brito,3,1,57,32,43,13,71,28,29,9
+917,M.Bartoli,C.Giorgi,3,1,62,26,38,10,60,21,40,14
+918,S.Stephens,P.Cetkovska,3,0,79,32,21,3,56,23,44,17
+919,M.Puig,E.Birnerova,3,0,58,15,42,8,75,22,25,5
+920,K.Zakopalova,N.Li,3,0,62,35,38,14,69,43,31,15
+921,R.Vinci,D.Cibulkova,3,1,56,18,44,17,64,15,36,9
+922,T.Pironkova,P.Martic,3,1,57,34,43,21,50,20,50,14
+923,A.Radwanska,M.Keys,3,1,71,55,29,18,61,53,39,16
+924,A.Riske,K.Kanepi,3,0,60,15,40,8,53,22,47,13
+925,L.Robson,M.Erakovic,3,1,59,35,41,16,60,37,40,13
+926,S.Lisicki,S.Stosur,3,1,68,39,32,13,61,32,39,15
+927,S.Williams,K.Date-Krumm,3,1,64,21,36,8,64,10,36,9
+928,K.Flipkens,F.Pennetta,4,1,60,26,40,14,66,26,34,11
+929,P.Kvitova,C.Suarez Navarro,4,1,70,40,30,10,66,31,34,11
+930,M.Bartoli,K.Knapp,4,1,61,26,39,7,60,18,40,4
+931,M.Puig,S.Stephens,4,0,61,30,39,20,63,46,37,13
+932,R.Vinci,N.Li,4,0,64,12,36,5,61,21,39,10
+933,A.Radwanska,T.Pironkova,4,1,71,47,29,17,55,37,45,18
+934,L.Robson,K.Kanepi,4,0,57,32,43,16,60,44,40,14
+935,S.Williams,S.Lisicki,4,0,62,31,38,16,61,38,39,20
+936,P.Kvitova,K.Flipkens,5,0,72,50,28,11,62,42,38,17
+937,S.Stephens,M.Bartoli,5,0,63,24,37,5,58,26,42,15
+938,A.Radwanska,N.Li,5,1,77,52,23,9,77,57,23,13
+939,S.Lisicki,K.Kanepi,5,1,59,26,41,10,67,25,33,9
+940,M.Bartoli,K.Flipkens,6,1,61,21,39,10,49,8,51,7
+941,S.Lisicki,A.Radwanska,6,1,63,53,37,19,70,42,30,15
+942,S.Lisicki,M.Bartoli,7,0,65,22,35,9,67,31,33,7

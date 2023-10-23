@@ -1,0 +1,12 @@
+Date: date that the WNV test is performed,
+Address: approximate address of the location of trap,
+Species: the species of mosquitos,
+Block: block number of address,
+Street: street name,
+Trap: Id of the trap,
+AddressNumberAndStreet: approximate address returned from GeoCoder,
+Latitude: Latitude returned from GeoCoder,
+Longitude: Longitude returned from GeoCoder,
+AddressAccuracy: accuracy returned from GeoCoder,
+NumMosquitos: number of mosquitoes caught in this trap,
+WnvPresent: whether West Nile Virus was present in these mosquitos. 1 means WNV is present and 0 means not present
