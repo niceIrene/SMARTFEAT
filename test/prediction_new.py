@@ -61,8 +61,8 @@ f.close
 print("The original features are")
 print(org_features)
 
-print("The original predication results are")
-data_prelim =clean_data(data_df)
+# print("The original predication results are")
+# data_prelim =clean_data(data_df)
 # X_train, X_test, y_train, y_test =train_test_split(data_prelim[org_features],data_prelim[args.predict_col],
 #                                                    test_size=0.25,
 #                                                    random_state=0,
@@ -72,7 +72,6 @@ data_prelim =clean_data(data_df)
 
 # initialize the root state 
 cur_attr_lst = CurrentAttrLst(org_features, data_agenda, data_df, args.clf_model, args.sampling_budget)
-cur_attr_lst.step = 8
 print("The current step is!!!!!!")
 print(cur_attr_lst.step)
 while True:
