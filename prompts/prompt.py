@@ -34,7 +34,6 @@ Use "certain" and "high" cautiously and only when you are 100% sure this is an a
 '''
 
 binary_prompt_sampling = '''
-Obtain a new feature that helps predict the {y_attr} attribute by applying binary operators.
 Given the input dataset, identify two relevant features and select a binary operator (+, -, *, /) that can be applied to the relevant features.  
 Avoid repeating existing features. Return None if you think all helpful features of this type have been found.
 Output format: A dictionary with the following keys - 'relevant': A list of the two relevant features (excluding {y_attr}), 'new_feature': The name of the newly created feature, 'description': A brief description of the selected binary operator.
@@ -58,11 +57,11 @@ The output should be a dictionary with the following keys, and please do not inc
 '''
 
 system_message_prompt = '''
-You are a data scientist specializing in feature engineering, where you excel in the construction of suitable features and transformations based on attribute context and the downstream machine learning algorithm.
+You are a data scientist specializing in feature engineering, where you excel in the construction of suitable features and transformations based on attribute context and the downstream machine learning algorithm. Keep your answer concise.
 '''
 
 system_message_agg_prompt = '''
-You are a data scientist specializing in feature engineering, where you excel in constructing suitable groupby operation to obtain new features based on attribute context and the downstream machine learning algorithm.
+You are a data scientist specializing in feature engineering, where you excel in constructing suitable groupby operation to obtain new features based on attribute context and the downstream machine learning algorithm. Keep your answer concise.
 '''
 
 
@@ -74,7 +73,7 @@ aggregator_prompt_cot= '''
 Obtain a valuable groupby feature for predicting {y_attr} using 'df.groupby(groupby_col)[agg_col].transform(function)'.
 Specify the groupby_col, agg_col, and the aggregation function.
 Avoid repeating existing features. Return None if all possible features are already in the existing feature set.
-Output format, a dictionary with three keys: 'groupby_col': The groupby columns, a list of features that exclude {y_attr}, 'agg_col': The aggregate column ({y_attr} can also be selected), 'function': the aggregation function, such as mean, sum...
+Output format, a dictionary with three keys: 'groupby_col': The groupby columns, a list of features that exclude {y_attr}, 'agg_col': The aggregate column (for example {y_attr}), 'function': the aggregation function, such as mean, sum...
 '''
 
 extractor_function_prompt_cot = '''

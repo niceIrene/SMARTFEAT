@@ -1,0 +1,13 @@
+Player1,
+Player2,
+FSP.1,
+FSW.1,
+SSP.1,
+SSW.1,
+FSP.2,
+FSW.2,
+SSP.2,
+SSW.2,
+Round,
+Result
+

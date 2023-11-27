@@ -14,11 +14,12 @@ from feature_evaluation import *
 import featuretools as ft
 
 data_df = pd.read_csv("../dataset/[DatasetPath]/[DatasetWithNewFeatures].csv")
+y_label = 'YLabel'
 attributes = list(data_df.columns)
-attributes.remove('YLabel')
+attributes.remove(y_label)
 features = attributes
 X = data_df[features]
-y = data_df['YLabel']
+y = data_df[y_label]
 # %%
 es = ft.EntitySet(id="data")
 es = es.add_dataframe(
@@ -98,12 +99,12 @@ new_data_df, new_features = remove_highly_correlated_features(new_data_df, featu
 new_data_df
 # %%
 attributes = list(new_data_df.columns)
-attributes.remove('YLabel')
+attributes.remove(y_label)
 features = attributes
-X_train, X_test, y_train, y_test =train_test_split(new_data_df[features],new_data_df['YLabel'],
+X_train, X_test, y_train, y_test =train_test_split(new_data_df[features],new_data_df[y_label],
                                                    test_size=0.25,
                                                    random_state=0,
-                                                   stratify=new_data_df['YLabel'])
+                                                   stratify=new_data_df[y_label])
 models = GetBasedModel()
 print(len(X_train))
 names,results, tests = PredictionML(X_train, y_train,X_test, y_test,models)

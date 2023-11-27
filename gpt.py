@@ -50,7 +50,7 @@ def gpt_fix_or_propose_binary(prompt, model="gpt-3.5-turbo", temperature=0.7, ma
 #     # print(result_lst)
 #     return result_lst
 
-def gpt_cot_binary(prompt, model="gpt-4", temperature=0.5, max_tokens=300, n=1, stop=None):
+def gpt_cot_binary(prompt, model="gpt-4", temperature=0.7, max_tokens=300, n=1, stop=None):
     messages = [{'role': 'system', 'content': system_message_prompt}, {"role": "user", "content": prompt}]
     response = completions(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens,n=n, stop=stop)
     # returns the optimal choice
@@ -72,7 +72,7 @@ def gpt_cot_extract(prompt, model="gpt-3.5-turbo", temperature=0.7, max_tokens=1
     print(result_lst)
     return result_lst
 
-def gpt_cot_agg(prompt, model="gpt-4", temperature=0.5, max_tokens=300, n=1, stop=None):
+def gpt_cot_agg(prompt, model="gpt-4", temperature=0.7, max_tokens=300, n=1, stop=None):
     messages = [{'role': 'system', 'content': system_message_agg_prompt}, {"role": "user", "content": prompt}]
     response = completions(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens,n=n, stop=stop)
     # returns the optimal choice

@@ -15,11 +15,13 @@ from autofeat import AutoFeatClassifier
 
 
 data_df = pd.read_csv("../dataset/[DatasetPath]/[DatasetWithNewFeatures].csv")
+y_label = 'Y_Label'
+
 attributes = list(data_df.columns)
-attributes.remove('YLabel')
+attributes.remove(y_label)
 features = attributes
 X = data_df[features]
-y = data_df['YLabel']
+y = data_df[y_label]
 # %%
 for c in data_df.columns:
     if type(data_df[c][0]) != np.int64 and type(data_df[c][0]) != np.float64:
@@ -35,10 +37,10 @@ for c in data_df.columns:
         print(type(data_df[c][0]))
 # %%
 # splitting training and testing set
-X_train, X_test, y_train, y_test =train_test_split(data_df[features],data_df['YLabel'],
+X_train, X_test, y_train, y_test =train_test_split(data_df[features],data_df[y_label],
                                                    test_size=0.25,
                                                    random_state=0,
-                                                   stratify=data_df['YLabel'])
+                                                   stratify=data_df[y_label])
 afreg = AutoFeatClassifier(verbose=1, feateng_steps=2)
 X_train_tr = afreg.fit_transform(X_train, y_train)
 X_test_tr = afreg.transform(X_test)

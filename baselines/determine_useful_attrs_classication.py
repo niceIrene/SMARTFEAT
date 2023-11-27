@@ -14,9 +14,9 @@ from search import *
 import copy
 from feature_evaluation import *
 # data_df = pd.read_csv("../dataset/[DatasetPath]/[DatasetWithNewFeatures].csv")
-data_df = pd.read_csv("../dataset/virus_example.csv")
+data_df = pd.read_csv("../dataset/tennis_example.csv")
 # data_df = pd.read_csv("../dataset/pima_diabetes/diabetes.csv")
-y_label = 'WnvPresent'
+y_label = 'Result'
 # %% data general preprocessing
 # drop the index column if have
 for c in list(data_df.columns):
@@ -44,10 +44,10 @@ for c in data_df.columns:
 # %% test helpful information
 X = data_df[features]
 y = data_df[y_label]
-for index, row in data_df.iterrows():
-    for column in data_df.columns:
-        if row[column] < 0:
-            print(f"Cell at ({index}, {column}): {row[column]}")
+# for index, row in data_df.iterrows():
+    # for column in data_df.columns:
+        # if row[column] < 0:
+        #     print(f"Cell at ({index}, {column}): {row[column]}")
 print("===========================================")
 print('mutual info')
 feature_evaluation_show_all(X, y, 'mutual info')
@@ -80,9 +80,6 @@ def obtain_groupby_cols(c):
     match = re.match(pattern, c)
     if not match:
         raise ValueError("Invalid input format")
-    # print(match.group(1))
-    # print(match.group(2))
-    # print(match.group(3))
     groupby_col = [col.strip(" '[]") for col in match.group(1).split(',')]
     function = match.group(2)
     agg_col = match.group(3)
@@ -100,10 +97,9 @@ for c in X_train.columns:
         group_num = len(X_train[groupby_col].drop_duplicates())
         print(group_num)
         if group_num > 0.5 * len(X_train):
+            print("Drop the attribute as it is impossible to impute")
             X_train = X_train.drop([c], axis = 1)
-            X_train = X_test.drop([c], axis = 1)
-        
-
+            X_test = X_test.drop([c], axis = 1)
 X_train
 # %% impute the test set from the trainset groupby information
 groupby_features = []
@@ -113,6 +109,7 @@ for c in X_test.columns:
         groupby_features.append(c)
 print("All features containing groupby are")
 print(groupby_features)
+# dropped the hard to impute columns
 
 for c in groupby_features:
     groupby_col, agg_col, function = obtain_groupby_cols(c)
@@ -133,7 +130,8 @@ for c in groupby_features:
         # if more than half of the test set needs to impute, drop the column, otherwise use the aggregate value to impute it)
             # we use the aggregate information of the entire dataset for imputation
         X_test[c].fillna(train_df[agg_col].agg(function), inplace=True)
-X_test = X_test.drop([y_label],axis = 1)
+if len(groupby_features) > 0:
+    X_test = X_test.drop([y_label],axis = 1)
 X_test
 
 # %% final accuracy with the dataset imputation
@@ -143,14 +141,10 @@ print(len(X_train))
 names,results, tests = PredictionML(X_train, y_train,X_test, y_test,models)
 
 # %% to be removed
-nan_rows = data_df[data_df.isna().any(axis=1)]
+# nan_rows = data_df[data_df.isna().any(axis=1)]
 
-print(nan_rows)
+# print(nan_rows)
 
-nan_columns = data_df.columns[data_df.isna().any()].tolist()
+# nan_columns = data_df.columns[data_df.isna().any()].tolist()
 
-print(nan_columns)
-# %%
-data_df.to_csv('tennis_example.csv')
-# %%
-data_df['Bucketized_Player1'].value_counts()
+# print(nan_columns)

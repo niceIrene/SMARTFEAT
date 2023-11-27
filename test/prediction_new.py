@@ -1,5 +1,5 @@
-#  include packages
-# CML
+import sys
+print(sys.executable)
 import pandas as pd
 import numpy as np
 import sys
