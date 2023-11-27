@@ -24,14 +24,14 @@ os.environ["OPENAI_API_KEY"] = "[YOUR OPENAI_API_KEY]"
 ```
 
 
-## Example of running pima dataset
+## Example of running tennis dataset
 
 ```bash
 $ cd test
-$ ./test_pima.sh
+$ ./test_tennis.sh
 ```
 
-We provide an example of the new features for downstream Decision Tree model in ./dataset/pime_example.csv.
+We provide an example of the new features for downstream Decision Tree model in ./dataset/tennis_example.csv.
 The evaluation file for seeing the feature importance and prediction results is in ./baseline/determine_useful_attrs_classication.py
 
 ## Running your own dataset
