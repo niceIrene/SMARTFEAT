@@ -33,7 +33,7 @@ def parse_args():
     args.add_argument('--path', type= str, default='./dataset/pima_diabetes/')
     args.add_argument('--predict_col', type=str, default='Outcome')
     args.add_argument('--csv', type=str, default='diabetes.csv')
-    args.add_argument('--model', type=str, choices=['gpt-4', 'gpt-3.5-turbo', 'text-davinci-003'], default='gpt-3.5-turbo')
+    # args.add_argument('--model', type=str, choices=['gpt-4', 'gpt-3.5-turbo', 'text-davinci-003'], default='gpt-3.5-turbo')
     args.add_argument('--temperature', type=float, default=0.7)
     args.add_argument('--n_generate_sample', type=int, default=1)
     args.add_argument('--clf_model', type=str, default='Decision Tree')
