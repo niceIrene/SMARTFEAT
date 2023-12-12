@@ -4,50 +4,22 @@ import numpy as np
 import sys
 sys.path.append('../')
 import pathlib as Path
-from serialize import *
-from feature_evaluation import feature_evaluation_show_all, feature_evaluation_select_k
+from SMARTFEAT.serialize import *
+from SMARTFEAT.feature_evaluation import feature_evaluation_show_all
 import pandas as pd 
 import numpy as np
-from Prediction_helper import *
+from SMARTFEAT.Prediction_helper import *
 from sklearn.model_selection import train_test_split
-from search import *
+from SMARTFEAT.search import *
 import copy
-from feature_evaluation import *
-# data_df = pd.read_csv("../dataset/[DatasetPath]/[DatasetWithNewFeatures].csv")
-data_df = pd.read_csv("../dataset/tennis_example.csv")
-# data_df = pd.read_csv("../dataset/pima_diabetes/diabetes.csv")
-y_label = 'Result'
+from SMARTFEAT.feature_evaluation import *
+data_df = pd.read_csv("../dataset/[DatasetPath]/[DatasetWithNewFeatures].csv")
+y_label = 'Y_Label'
 # %% data general preprocessing
-# drop the index column if have
-for c in list(data_df.columns):
-    if 'Unnamed' in c:
-        data_df = data_df.drop([c], axis=1)
-
-attributes = list(data_df.columns)
-attributes.remove(y_label)
-features = attributes
+data_df, features = data_preproessing(data_df, y_label)
 X = data_df[features]
 y = data_df[y_label]
-
-for c in data_df.columns:
-    if type(data_df[c][0]) != np.int64 and type(data_df[c][0]) != np.float64:
-        print(type(data_df[c][0]))
-        data_df[c] = data_df[c].astype(object)
-        data_df[c], _  = pd.factorize(data_df[c])
-        # factorize these columns
-data_df = data_df.replace([np.inf, -np.inf], np.nan)
-data_df = data_df.dropna()
-for c in data_df.columns:
-    if type(data_df[c][0]) != np.int64 and type(data_df[c][0]) != np.float64:
-        print(type(data_df[c][0]))
-
 # %% test helpful information
-X = data_df[features]
-y = data_df[y_label]
-# for index, row in data_df.iterrows():
-    # for column in data_df.columns:
-        # if row[column] < 0:
-        #     print(f"Cell at ({index}, {column}): {row[column]}")
 print("===========================================")
 print('mutual info')
 feature_evaluation_show_all(X, y, 'mutual info')
@@ -66,8 +38,8 @@ X_train, X_test, y_train, y_test =train_test_split(data_df[features],data_df[y_l
 models = GetBasedModel()
 print(len(X_train))
 names,results, tests = PredictionML(X_train, y_train,X_test, y_test,models)
-# basedLineScore = ScoreDataFrame(names,results, tests)
-# basedLineScore
+basedLineScore = ScoreDataFrame(names,results, tests)
+basedLineScore
 
 # %% reconstruction of groupby features trainset
 for c in data_df.columns:
@@ -85,11 +57,11 @@ def obtain_groupby_cols(c):
     agg_col = match.group(3)
     return groupby_col, agg_col, function    
 
-
 # recompute the groupby information from the train set
 train_df = X_train.join(y_train)
 for c in X_train.columns:
     if 'GROUPBY' in c and y_label in c:
+        print(c)
         # obtain the groupby columns from c
         groupby_col, agg_col, function = obtain_groupby_cols(c)
         X_train[c] = train_df.groupby(groupby_col)[agg_col].transform(function)
@@ -100,7 +72,6 @@ for c in X_train.columns:
             print("Drop the attribute as it is impossible to impute")
             X_train = X_train.drop([c], axis = 1)
             X_test = X_test.drop([c], axis = 1)
-X_train
 # %% impute the test set from the trainset groupby information
 groupby_features = []
 for c in X_test.columns:
@@ -110,7 +81,6 @@ for c in X_test.columns:
 print("All features containing groupby are")
 print(groupby_features)
 # dropped the hard to impute columns
-
 for c in groupby_features:
     groupby_col, agg_col, function = obtain_groupby_cols(c)
     # Create a dictionary to store the default values for each unique combination of categories
@@ -133,18 +103,9 @@ for c in groupby_features:
 if len(groupby_features) > 0:
     X_test = X_test.drop([y_label],axis = 1)
 X_test
-
 # %% final accuracy with the dataset imputation
 X_test = X_test[list(X_train.columns)]
 models = GetBasedModel()
 print(len(X_train))
 names,results, tests = PredictionML(X_train, y_train,X_test, y_test,models)
-
-# %% to be removed
-# nan_rows = data_df[data_df.isna().any(axis=1)]
-
-# print(nan_rows)
-
-# nan_columns = data_df.columns[data_df.isna().any()].tolist()
-
-# print(nan_columns)
+# %%
